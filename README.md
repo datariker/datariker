@@ -15,8 +15,8 @@
 <p align="center"><img alt="Star Divider" src="https://github.com/user-attachments/assets/56762eef-08c0-48a8-9ce0-28167c0665bc"></p>
 <!--Section 2-->
  <h3 align="center"><strong>𝐋𝐢𝐧𝐤𝐬</strong></h3>
-   <p align="center"><a href="https://www.patreon.com/c/mcspirk/about"><img width="150" height="20"  alt="Patreon Blinkie" src="https://github.com/user-attachments/assets/76a9ff5c-9903-4727-8347-8e3fe9048f16">
-   <p align="center"><a href="https://tiberiusriker.straw.page/"><img width="150" height="20" alt="StrawPage Blinkie" src="https://github.com/user-attachments/assets/2a9f19d1-f0e9-46e9-8940-c555460f4977"></p>
+   <p align="center"><!--<a href="https://www.patreon.com/c/mcspirk/about">--><img width="150" height="20"  alt="Patreon Blinkie" src="https://github.com/user-attachments/assets/76a9ff5c-9903-4727-8347-8e3fe9048f16"><br><em>Reworking/On-hold</em></p>
+   <p align="center"><!--<a href="https://tiberiusriker.straw.page/">--><img width="150" height="20" alt="StrawPage Blinkie" src="https://github.com/user-attachments/assets/2a9f19d1-f0e9-46e9-8940-c555460f4977"><br><em>Reworking/On-hold</em></p>
    <p align="center"><a href="https://www.tumblr.com/bluefrenzy"><img width="150" height="20" alt="Tumblr Blinkie" src="https://github.com/user-attachments/assets/2584d818-8358-4af5-8d3d-f254588b42fd"></p>
    <p align="center"><img width="150" height="20"  alt="PronounsCC Blinkie" src="https://github.com/user-attachments/assets/13e47aed-9c9b-41c8-a74f-4a5bb67042a8"><br><em>WIP</em></p>
    <p align="center"><a href="https://www.pinterest.com/oblique_asymptote/_saved/"><img width="150" height="20"  alt="Pinterest Blinkie" src="https://github.com/user-attachments/assets/2befda75-f61d-4e62-bd5a-634d11fffe57"></p>
@@ -30,7 +30,7 @@
    <p align="center">Spotify ➢&nbsp;&nbsp;<a href="https://open.spotify.com/user/31l5e4puhwchdhd4yfww4z547hei?si=21050cb9efdc488a"><img width="20" height="20" alt="Spotify Logo" src="https://github.com/user-attachments/assets/007c23ef-aa83-4bf0-a70a-e20926b2a78d"></p>
    <p align="center">Steam ➢&nbsp;&nbsp;<a href="https://steamcommunity.com/id/tiberiusriker/"><img width="20" height="20" alt="Steam Logo" src="https://github.com/user-attachments/assets/a607cf24-ff57-42d8-87a6-69c987b86d66"></p>-->
    <p align="center"><img width="20" height="20" alt="Discord Galactic Chrome Logo" src="https://github.com/user-attachments/assets/c3c918cf-2ff1-4743-8708-2b6f07ca6733">&nbsp;&nbsp;Reach me on Discord @<strong>borgdata</strong></p>
-   <p align="center"><em>I follow back on socials</em></p></td>
+   <p align="center"><em>I follow back on socials!</em></p></td>
 <p align="center"><img alt="Star Divider" src="https://github.com/user-attachments/assets/56762eef-08c0-48a8-9ce0-28167c0665bc"></p>
 <!--<p align="center"><img alt="Green Arrow Divider" src="https://github.com/user-attachments/assets/7b1cd04a-049a-4561-a231-8e4046f8bcfd"></p>-->
 <!--Section 3-->
@@ -38,9 +38,10 @@
    <TABLE BORDER>
     <tr>
       <td><p>I love coding, technology, writing, reading, exploring nature, and listening to music.</p>
-      <p>My favorite music is metal and disco. I also like old pop, electronic, synthwave, ambient, j-pop, and rock. A few of my favorite bands are Judas Priest, Blood Incantation, and Vektor. See more on my Spotify :)</p>
+      <p>My favorite music is metal and disco. I also like old pop, electronic, synthwave, ambient, j-pop, and rock. A few of my favorite bands are Judas Priest, Blood Incantation, and Vektor. See more on my Spotify!</p>
       <p>Some games I play are Pony Town, Blue Archive (rarely), and Star Trek Online.</p>
-      <p>The main fandoms I'm in are Star Trek, Transformers, and Star Wars.</p>
+      <p>The main fandoms I'm in are Star Trek, Transformers, and Star Wars. I'm also into (or have liked in the past) Warriors, Anthropomorphic Geography, and The Walking Dead.</p>
+      <p>I love science fiction media & vampire/werewolf/whateverthatis media.</p>
       </td>
     </tr>
   </TABLE>
@@ -48,11 +49,12 @@
  <h3 align="center"><strong>𝐄𝐱𝐭𝐫𝐚/𝐁𝐘𝐈</strong></h3>
   <TABLE BORDER>
     <tr>
-      <td><p>I'm anticensorship (At least when it comes to fiction). I also seperate art from the artist.</p>
-      <p>I like roleplaying, AUs, fanfiction, fanart, (though I am terrible at drawing), and all the classic fandom-y things.</p>
-      <p>I'm a multishipper, pro(fessional)shiper, darkshipper, comshipper, whatever other ridiculous categories antis came up with. You will usually find me shipping characters have some kind of chemistry or interaction history. I don't usually <em>seriously</em> do crackships, but I'll go along with it as a joke.</p>
-      <p>I am shy and sometimes I may seem stand-offish or rude. I'll have you note that this is never on purpose. I also have episodes of severe anxiety and antagonism. I ask that you please be patient and understanding with both of these things. I love making new friends and talking to people, my mood/trauma sometimes just makes it extremely difficult!</p>
-      <p>I have no DNI list, feel free to interact, who ever you are.</p>
+      <td><p>I'm anticensorship (At least when it comes to fiction).</p>
+      <p>I like roleplaying, AUs, fanfiction, fanart, drawing, and all the classic fandom-y things :)</p>
+      <p>I'm a multishipper, pro(fessional)shiper, darkshipper, and comshipper. You will usually find me shipping characters have some kind of chemistry or interaction history. I don't usually <em>seriously</em> do crackships, but I'll go along with it as a joke.</p>
+      <p>I am shy and sometimes I may seem stand-offish or rude. I'll have you note that this is never on purpose. I also have episodes of severe anxiety and antagonism. I ask that you please be patient and understanding with both of these things. I love making new friends and talking to people, my mood/trauma sometimes just makes it extremely difficult.</p>
+      <p>I have no DNI list. I refuse to judge people based on one (or a few) characteristics that they have. Feel free to interact, who ever you are. If we end up not getting along, then so be it. I'd rather have tried then not tried.</p>
+      <p>Thank you for reading!</p>
       </td>
     </tr>
   </TABLE>
@@ -77,7 +79,7 @@
                  <img width="150" height="20"  alt="IRL Hacker" src="https://github.com/user-attachments/assets/1d837f43-99f6-4ec0-93c3-cf5f3d007b31">
                  <img width="150" height="20"  alt="Winter Love" src="https://github.com/user-attachments/assets/97ec6582-16a7-470a-b2fa-5d242bb8a66e">
                  <img width="150" height="20"  alt="Winamp" src="https://github.com/user-attachments/assets/fe37d8d4-a933-47f7-9ab9-c0bd5997453b"></p>
-                 <p align="center">Qapla'.</p>
+                 <p align="center">Qapla'!</p>
 <p align="center"><img width="150" height="20"  alt="You Will Be Assimilated" src="https://github.com/user-attachments/assets/a502b541-d991-4ed0-9b19-06ea9c37e098"></p>
 <!-- copy paste text
 
