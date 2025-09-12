@@ -52,7 +52,7 @@
       <td><p>I'm anticensorship (At least when it comes to fiction).</p>
       <p>I like roleplaying, AUs, fanfiction, fanart, drawing, and all the classic fandom-y things :)</p>
       <p>I'm a multishipper, pro(fessional)shiper, darkshipper, and comshipper. You will usually find me shipping characters have some kind of chemistry or interaction history. I don't usually <em>seriously</em> do crackships, but I'll go along with it as a joke.</p>
-      <p>I am shy and sometimes I may seem stand-offish or rude. I'll have you note that this is never on purpose. I also have episodes of severe anxiety and antagonism. I ask that you please be patient and understanding with both of these things. I love making new friends and talking to people, my mood/trauma sometimes just makes it extremely difficult.</p>
+      <p>I love making new friends & talking to people, but any kind of disrespect will not be tolerated. I'm also not going to polish what I say/how I act.</p>
       <p>I have no DNI list. I refuse to judge people based on one (or a few) characteristics that they have. Feel free to interact, who ever you are. If we end up not getting along, then so be it. I'd rather have tried then not tried.</p>
       <p>Thank you for reading!</p>
       </td>
