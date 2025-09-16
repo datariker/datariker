@@ -35,6 +35,7 @@
       <p>🎮 Games ~ Pony Town, Blue Archive, Star Trek Online, Sparkle 2 Evo</p>
       <p>🎲 Fandoms ~ Star Trek, Transformers, Star Wars.</p>
       <p>📺 Media ~ Science fiction & vampire/werewolf/whateverthatis, halloween/spooky (not horror).</p>
+      <p>🎥 Currently watching ~ Deep Space Nine</p>
       </td>
     </tr>
   </TABLE>
@@ -45,7 +46,7 @@
       <td><p>⛔ Anticensorship</p>
       <p>🍭 I like roleplaying, AUs, fanfiction, fanart, drawing, and all the classic fandom-y things.</p>
       <p>💟 Multishipper, pro(fessional)shiper, darkshipper, comshipper, plus anything else.</p>
-      <p>❓ No DNI list. I refuse to judge people based on one (or a few) characteristics that they have. Feel free to interact, who ever you are. If we end up not getting along, then so be it. I'd rather have tried then not tried.</p>
+      <p>❓ No DNI list. I do not judge people based on one (or a few) characteristics that they have. If we end up not getting along, then so be it. I'd rather have tried then not tried.</p>
       <p>Thank you for reading.</p>
       </td>
     </tr>
