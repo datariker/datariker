@@ -22,13 +22,6 @@
    <p align="center"><a href="https://www.pinterest.com/rikertroi/_saved/"><img width="150" height="20"  alt="Pinterest Blinkie" src="https://github.com/user-attachments/assets/2befda75-f61d-4e62-bd5a-634d11fffe57"></p>
    <p align="center"><a href="https://open.spotify.com/user/31l5e4puhwchdhd4yfww4z547hei?si=21050cb9efdc488a"><img width="150" height="20"  alt="Spotify Blinkie" src="https://github.com/user-attachments/assets/85542288-efe3-4a0f-b6d1-a90c20c1d080"></p>
    <p align="center"><a href="https://steamcommunity.com/id/tiberiusriker/"><img width="150" height="20"  alt="PronounsCC Blinkie" src="https://github.com/user-attachments/assets/25b97251-b552-4d8c-b4cb-dc34ba991b42"></p>
-     <!--Tumblr ➢&nbsp;&nbsp;<a href="https://www.tumblr.com/bluefrenzy"><img width="20" height="20" alt="Tumblr Logo" src=https://github.com/user-attachments/assets/9f3d7a31-b889-4336-a232-cf9bffcf8d46>-->
-     <!--StrawPage ➢&nbsp;&nbsp;<img width="20" height="20" alt="Strawpage Logo" src="https://github.com/user-attachments/assets/725c938b-662c-4a5c-b26f-ce02238f7315">-->
-     <!--</a> Patreon ➢&nbsp;&nbsp;<img width="20" height="20" alt="Patreon Logo" src="https://github.com/user-attachments/assets/7773faf0-3d12-40fc-83c9-ee49f4cb4103"></p>-->
-     <!--<p align="center">Pronouns page ➢ WIP&nbsp;&nbsp;<img width="20" height="20" alt="Pronouns Page Logo" src="https://github.com/user-attachments/assets/438be7b8-b96b-463b-a98d-dba60fc565d6"></p>
-   <p align="center">Pinterest ➢&nbsp;&nbsp;<a href="https://www.pinterest.com/oblique_asymptote/_saved/"><img width="20" height="20" alt="Pinterest Logo" src="https://github.com/user-attachments/assets/3e57b8ce-feca-4abd-ac18-79c1b8f9157d"></p>
-   <p align="center">Spotify ➢&nbsp;&nbsp;<a href="https://open.spotify.com/user/31l5e4puhwchdhd4yfww4z547hei?si=21050cb9efdc488a"><img width="20" height="20" alt="Spotify Logo" src="https://github.com/user-attachments/assets/007c23ef-aa83-4bf0-a70a-e20926b2a78d"></p>
-   <p align="center">Steam ➢&nbsp;&nbsp;<a href="https://steamcommunity.com/id/tiberiusriker/"><img width="20" height="20" alt="Steam Logo" src="https://github.com/user-attachments/assets/a607cf24-ff57-42d8-87a6-69c987b86d66"></p>-->
    <p align="center"><img width="20" height="20" alt="Discord Galactic Chrome Logo" src="https://github.com/user-attachments/assets/c3c918cf-2ff1-4743-8708-2b6f07ca6733">&nbsp;&nbsp;Reach me on Discord @<strong>borgdata</strong></p>
    <p align="center"><em>I follow back on socials!</em></p></td>
 <p align="center"><img alt="Star Divider" src="https://github.com/user-attachments/assets/56762eef-08c0-48a8-9ce0-28167c0665bc"></p>
@@ -37,11 +30,11 @@
  <h3 align="center"><strong>𝐅𝐚𝐧𝐝𝐨𝐦𝐬 & 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬</strong></h3>
    <TABLE BORDER>
     <tr>
-      <td><p>I love coding, technology, writing, reading, exploring nature, and listening to music.</p>
-      <p>My favorite music is metal and disco. I also like old pop, electronic, synthwave, ambient, j-pop, and rock. A few of my favorite bands are Judas Priest, Blood Incantation, and Vektor. See more on my Spotify!</p>
-      <p>Some games I play are Pony Town, Blue Archive (rarely), and Star Trek Online.</p>
-      <p>The main fandoms I'm in are Star Trek, Transformers, and Star Wars. I'm also into (or have liked in the past) Warriors, Anthropomorphic Geography, and The Walking Dead.</p>
-      <p>I love science fiction media & vampire/werewolf/whateverthatis media.</p>
+      <td><p>🧅 General ~ Coding, technology, writing, reading, nature, and music.</p>
+      <p>📼 Music ~ Metal, disco, new wave, electronic, synthwave, ambient, j-pop, and rock. Some bands ~ Judas Priest, Blood Incantation, Vektor.</p>
+      <p>🎮 Games ~ Pony Town, Blue Archive, Star Trek Online, Sparkle 2 Evo</p>
+      <p>🎲 Fandoms ~ Star Trek, Transformers, Star Wars.</p>
+      <p>📺 Media ~ Science fiction & vampire/werewolf/whateverthatis, halloween/spooky (not horror).</p>
       </td>
     </tr>
   </TABLE>
@@ -49,12 +42,11 @@
  <h3 align="center"><strong>𝐄𝐱𝐭𝐫𝐚/𝐁𝐘𝐈</strong></h3>
   <TABLE BORDER>
     <tr>
-      <td><p>I'm anticensorship (At least when it comes to fiction).</p>
-      <p>I like roleplaying, AUs, fanfiction, fanart, drawing, and all the classic fandom-y things :)</p>
-      <p>I'm a multishipper, pro(fessional)shiper, darkshipper, and comshipper. You will usually find me shipping characters have some kind of chemistry or interaction history. I don't usually <em>seriously</em> do crackships, but I'll go along with it as a joke.</p>
-      <p>I love making new friends & talking to people, but any kind of disrespect will not be tolerated. I'm also not going to polish what I say/how I act.</p>
-      <p>I have no DNI list. I refuse to judge people based on one (or a few) characteristics that they have. Feel free to interact, who ever you are. If we end up not getting along, then so be it. I'd rather have tried then not tried.</p>
-      <p>Thank you for reading!</p>
+      <td><p>⛔ Anticensorship</p>
+      <p>🍭 I like roleplaying, AUs, fanfiction, fanart, drawing, and all the classic fandom-y things.</p>
+      <p>💟 Multishipper, pro(fessional)shiper, darkshipper, comshipper, plus anything else.</p>
+      <p>❓ No DNI list. I refuse to judge people based on one (or a few) characteristics that they have. Feel free to interact, who ever you are. If we end up not getting along, then so be it. I'd rather have tried then not tried.</p>
+      <p>Thank you for reading.</p>
       </td>
     </tr>
   </TABLE>
