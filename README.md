@@ -4,7 +4,7 @@
 <!--Info 1-->
     <p align="center">Name ✦ Riker <br><em>Other names ✦ Data, Geordi, Reg, or Wesley/Wes</em></p>
     <p align="center">Age ✦ 18
-    <p align="center">Pronouns ✦ He/She/They/Xey (no preference)</p>
+    <p align="center">Pronouns ✦ Any</p>
     <p align="center">Sexuality ✦ Pansexual, Polyamory, Paraphile</p>
     <p align="center">Gender ✦ Genderfluid, Genderflux</p>
     <p align="center">Nationality ✦ American</p>
@@ -47,7 +47,7 @@
       <p>🍭 I like roleplaying, AUs, fanfiction, fanart, drawing, and all the classic fandom-y things.</p>
       <p>💟 Multishipper, pro(fessional)shiper, darkshipper, comshipper, plus anything else.</p>
       <p>❓ No DNI list. I do not judge people based on one (or a few) characteristics that they have. If we end up not getting along, then so be it. I'd rather have tried then not tried.</p>
-      <p>🇨🇭 I have OCD and I am on the autism spectrum. I use characters as a means to express myself because I have a lot of trouble expressing myself. I also use them as a cover-up/masking. They may act as seperate personas.</p>
+      <p>🇨🇭 I have OCD and I am on the autism spectrum. I use characters as a means to express myself because I have a lot of trouble expressing myself. I also use them as a cover-up/masking. They may act as seperate personas. I am currently questioning whether or not I am a system given my past and current circumstances. Please exercise kindness and patience when speaking to me about the topic.</p>
       <p>❤️‍🩹 I work in healthcare <3</p>
       <p>Thank you for reading.</p>
       </td>
