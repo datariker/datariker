@@ -10,7 +10,7 @@
     <p align="center">Nationality ✦ American</p>
     <p align="center">Languages ✦ English, some Spanish, Russian (reading)</p>
     <p align="center">Religion ✦ Agnostic/Atheist</p>
-    <p align="center">Political ✦ Leftist (or whateverthehell the Federation has going on)</p>
+    <p align="center">Political ✦ Leftist (or whateverthehell the Federation has going on.. and I am also a BURNING HOT anti-capitalist. Capitalism is my #1 public enemy.)</p>
     <p align="center">Academic ✦ STEM Major (very undecided). I love science and mathematics.</p>
 <p align="center"><img alt="Star Divider" src="https://github.com/user-attachments/assets/56762eef-08c0-48a8-9ce0-28167c0665bc"></p>
 <!--Section 2-->
@@ -33,7 +33,7 @@
       <td><p>🧅 General ~ Coding, technology, writing, reading, nature, and music.</p>
       <p>📼 Music ~ Metal, disco, new wave, electronic, synthwave, ambient, j-pop, and rock. I'll listen to basically any genre. Some bands ~ Judas Priest, Blood Incantation, Vektor. I sometimes listen to things on Spotify and very rarely on Apple Music; I mostly play things off my computer via Winamp, so not all of my music is necessarily on Spotify.</p>
       <p>🎮 Games ~ Pony Town, Blue Archive, Star Trek Online, Sparkle 2 Evo</p>
-      <p>🎲 Fandoms ~ Star Trek, Transformers, Star Wars, Mr. Robot, Anthropomorphic Geography/Countryhumans (Briefly, on the topic of countryhumans; I don't care what countries people make/like. If you see me with a horrible country, don't try to accuse me of endorsing the ideology of said country. By that logic, I would have extremely contradictory ideologies... which makes absolutely no sense... and I don't listen to people who spout non-sense.)</p>
+      <p>🎲 Fandoms ~ Star Trek, Transformers, Star Wars, Mr. Robot, Anthropomorphic Geography/Countryhumans (Briefly, on the topic of countryhumans; I don't care what countries people make/like. If you see me with a horrible country, don't try to accuse me of endorsing the ideology of said country. By that logic, I would have extremely contradictory ideologies... which makes absolutely no sense... and I don't listen to people who spout non-sense (especially accusational non-sense)).</p>
       <p>📺 Media ~ Science fiction & vampire/werewolf/whateverthatis, halloween/spooky (not horror).</p>
       <p>🎥 Currently watching ~ Deep Space Nine, Mr. Robot, (rewatching ->) The Next Generation, The Original Series</p>
       </td>
@@ -45,11 +45,11 @@
     <tr>
       <td><p>⛔ Anticensorship</p>
       <p>🍭 I like roleplaying, AUs, fanfiction, fanart, drawing, and all the classic fandom-y things.</p>
-      <p>💟 Multishipper, pro(fessional)shiper, darkshipper, comshipper, plus anything else.</p>
+      <p>💟 Multishipper, pro(fessional)shiper, darkshipper, comshipper, plus anything else. (Ship list ⚠️⚠️MAY BE⚠️⚠️ dropping soon RAHHH)</p>
       <p>❓ No DNI list. I do not judge people based on one (or a few) characteristics that they have. If we end up not getting along, then so be it. I'd rather have tried then not tried.</p>
-      <p>🇨🇭 I have OCD and I am on the autism spectrum. I use characters as a means to express myself because I have a lot of trouble expressing myself. I also use them as a cover-up/masking. They may act as seperate personas. I am currently questioning whether or not I am a system given my past and current circumstances. Please exercise kindness and patience when speaking to me about the topic.</p>
-      <p>☘️ I update this profile/change it a lot.</p>
-      <p>❤️‍🩹 I work in healthcare <3</p>
+      <p>🇨🇭 I have OCD and I am on the autism spectrum. (yesiknowthisistheswitzerlandflagijustwantedthewhiteonredhealtsymbol)</p>
+      <p>☘️ I update this profile/change it a lot :P</p>
+      <p>❤️‍🩹 I used to work in healthcare <3 Now mostly focusing on school, but that doesn't mean I'll be insanely busy!</p>
       <p>Thank you for reading.</p>
       </td>
     </tr>
