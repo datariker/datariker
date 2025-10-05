@@ -33,7 +33,7 @@
       <td><p>🧅 General ~ Coding, technology, writing, reading, nature, and music.</p>
       <p>📼 Music ~ Metal, disco, new wave, electronic, synthwave, ambient, j-pop, and rock. I'll listen to basically any genre. Some bands ~ Judas Priest, Blood Incantation, Vektor. I sometimes listen to things on Spotify and very rarely on Apple Music; I mostly play things off my computer via Winamp, so not all of my music is necessarily on Spotify.</p>
       <p>🎮 Games ~ Pony Town, Blue Archive, Star Trek Online, Sparkle 2 Evo</p>
-      <p>🎲 Fandoms ~ Star Trek, Transformers, Star Wars, Mr. Robot, Anthropomorphic Geography/Countryhumans.</p>
+      <p>🎲 Fandoms ~ Star Trek, Transformers, Star Wars, Mr. Robot, Anthropomorphic Geography/Countryhumans (Briefly, on the topic of countryhumans; I don't care what countries people make/like. If you see me with a horrible country, don't try to accuse me of endorsing the ideology of said country. By that logic, I would have extremely contradictory ideologies... which makes absolutely no sense... and I don't listen to people who spout non-sense.)</p>
       <p>📺 Media ~ Science fiction & vampire/werewolf/whateverthatis, halloween/spooky (not horror).</p>
       <p>🎥 Currently watching ~ Deep Space Nine, Mr. Robot, (rewatching ->) The Next Generation, The Original Series</p>
       </td>
