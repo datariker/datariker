@@ -47,7 +47,7 @@
       <p>🍭 I like roleplaying, AUs, fanfiction, fanart, drawing, and all the classic fandom-y things.</p>
       <p>💟 Multishipper, pro(fessional)shiper, darkshipper, comshipper, plus anything else.</p>
       <p>❓ No DNI list. I do not judge people based on one (or a few) characteristics that they have. If we end up not getting along, then so be it. I'd rather have tried then not tried.</p>
-      <p>🇨🇭 I have OCD and I am on the autism spectrum. (yesiknowthisistheswitzerlandflag ijustwantedthewhiteonredhealtsymbol)</p>
+      <p>🇨🇭 I have OCD and I am on the autism spectrum. (yesiknowthisistheswitzerlandflag ijustwantedthewhiteonredhealthsymbol)</p>
       <p>☘️ I update this profile/change it a lot :P</p>
       <p>❤️‍🩹 I work in healthcare <3 </p>
       <p>Thank you for reading.</p>
