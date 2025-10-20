@@ -2,7 +2,7 @@
 <!--Section 1-->
   <h3 align="center"><strong>𝐁𝐚𝐬𝐢𝐜 𝐈𝐧𝐟𝐨<br>────────────────────</strong></h3>
 <!--Info 1-->
-    <p align="center">Name ✦ Riker <br><em>Other names ✦ Any charatcer I like or play as. My real name if you know me IRL. Any other name you may know me by (common ones include Tara (don't call me this if you haven't already been using it for a while), Bite, and Jay.)</em></p>
+    <p align="center">Name ✦ Riker <br><em>Other names ✦ Any charatcer I like or play as. My real name if you know me IRL. Any other name you may know me by. Lots of names on my <a href="https://en.pronouns.page/@borgriker">PronounsPage!</a></em></p>
     <p align="center">Age ✦ 18
     <p align="center">Pronouns ✦ Any</p>
     <p align="center">Sexuality ✦ Pansexual, Polyamory, Paraphile</p>
@@ -18,8 +18,8 @@
    <p align="center"><!--<a href="https://www.patreon.com/c/mcspirk/about">--><img width="150" height="20"  alt="Patreon Blinkie" src="https://github.com/user-attachments/assets/76a9ff5c-9903-4727-8347-8e3fe9048f16"><br><em>Reworking/On-hold</em></p>
    <p align="center"><!--<a href="https://tiberiusriker.straw.page/">--><img width="150" height="20" alt="StrawPage Blinkie" src="https://github.com/user-attachments/assets/2a9f19d1-f0e9-46e9-8940-c555460f4977"><br><em>Reworking/On-hold</em></p>
    <p align="center"><a href="https://www.tumblr.com/rikercard"><img width="150" height="20" alt="Tumblr Blinkie" src="https://github.com/user-attachments/assets/2584d818-8358-4af5-8d3d-f254588b42fd"></p>
-   <p align="center"><img width="150" height="20"  alt="PronounsCC Blinkie" src="https://github.com/user-attachments/assets/13e47aed-9c9b-41c8-a74f-4a5bb67042a8"><br><em>WIP</em></p>
-   <p align="center"><a href="https://www.pinterest.com/rikertroi/_saved/"><img width="150" height="20"  alt="Pinterest Blinkie" src="https://github.com/user-attachments/assets/2befda75-f61d-4e62-bd5a-634d11fffe57"></p>
+   <!--<p align="center"><img width="150" height="20"  alt="PronounsCC Blinkie" src="https://github.com/user-attachments/assets/13e47aed-9c9b-41c8-a74f-4a5bb67042a8"><br><em>WIP</em></p>
+   <p align="center"><a href="https://www.pinterest.com/rikertroi/_saved/"><img width="150" height="20"  alt="Pinterest Blinkie" src="https://github.com/user-attachments/assets/2befda75-f61d-4e62-bd5a-634d11fffe57"></p>-->
    <p align="center"><a href="https://open.spotify.com/user/31l5e4puhwchdhd4yfww4z547hei?si=21050cb9efdc488a"><img width="150" height="20"  alt="Spotify Blinkie" src="https://github.com/user-attachments/assets/85542288-efe3-4a0f-b6d1-a90c20c1d080"></p>
    <p align="center"><a href="https://steamcommunity.com/id/tiberiusriker/"><img width="150" height="20"  alt="PronounsCC Blinkie" src="https://github.com/user-attachments/assets/25b97251-b552-4d8c-b4cb-dc34ba991b42"></p>
    <p align="center"><img width="20" height="20" alt="Discord Galactic Chrome Logo" src="https://github.com/user-attachments/assets/c3c918cf-2ff1-4743-8708-2b6f07ca6733">&nbsp;&nbsp;Reach me on Discord @<strong>borgdata</strong></p>
