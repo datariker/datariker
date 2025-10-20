@@ -2,7 +2,7 @@
 <!--Section 1-->
   <h3 align="center"><strong>𝐁𝐚𝐬𝐢𝐜 𝐈𝐧𝐟𝐨<br>────────────────────</strong></h3>
 <!--Info 1-->
-    <p align="center">Name ✦ Riker <br><em>Other names ✦ Any charatcer I like or play as. My real name if you know me IRL. Any other name you may know me by. Lots of names on my <a href="https://en.pronouns.page/@borgriker">PronounsPage!</a></em></p>
+    <p align="center">Name ✦ Riker and/or Jadzia <br><em>Other names ✦ Any charatcer I like or play as. My real name if you know me IRL. Any other name you may know me by. Lots of names on my <a href="https://en.pronouns.page/@borgriker">PronounsPage!</a></em></p>
     <p align="center">Age ✦ 18
     <p align="center">Pronouns ✦ Any</p>
     <p align="center">Sexuality ✦ Pansexual, Polyamory, Paraphile</p>
