@@ -15,7 +15,7 @@
 <p align="center"><img alt="Star Divider" src="https://github.com/user-attachments/assets/56762eef-08c0-48a8-9ce0-28167c0665bc"></p>
 <!--Section 2-->
  <h3 align="center"><strong>𝐋𝐢𝐧𝐤𝐬</strong></h3>
-   <p align="center"><!--<a href="https://www.patreon.com/c/mcspirk/about">--><img width="150" height="20"  alt="Patreon Blinkie" src="https://github.com/user-attachments/assets/76a9ff5c-9903-4727-8347-8e3fe9048f16"><br><em>Reworking/On-hold</em></p>
+   <p align="center"><a href="https://www.patreon.com/c/mcspirk/about"><img width="150" height="20"  alt="Patreon Blinkie" src="https://github.com/user-attachments/assets/76a9ff5c-9903-4727-8347-8e3fe9048f16"></p>
    <p align="center"><!--<a href="https://tiberiusriker.straw.page/">--><img width="150" height="20" alt="StrawPage Blinkie" src="https://github.com/user-attachments/assets/2a9f19d1-f0e9-46e9-8940-c555460f4977"><br><em>Reworking/On-hold</em></p>
    <p align="center"><a href="https://www.tumblr.com/rikercard"><img width="150" height="20" alt="Tumblr Blinkie" src="https://github.com/user-attachments/assets/2584d818-8358-4af5-8d3d-f254588b42fd"></p>
    <!--<p align="center"><img width="150" height="20"  alt="PronounsCC Blinkie" src="https://github.com/user-attachments/assets/13e47aed-9c9b-41c8-a74f-4a5bb67042a8"><br><em>WIP</em></p>
