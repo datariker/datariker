@@ -6,7 +6,7 @@
     <p align="center">Age ✦ 18
     <p align="center">Pronouns ✦ Any</p>
     <p align="center">Sexuality ✦ Pansexual, Polyamory, Paraphile</p>
-    <p align="center">Gender ✦ Genderfluid, Genderflux</p>
+    <p align="center">Gender ✦ Multigender, Genderfluid, Genderflux</p>
     <p align="center">Nationality ✦ American</p>
     <p align="center">Languages ✦ English, some Spanish, Russian (reading), very minimal German and Norwegian</p>
     <p align="center">Religion ✦ Agnostic/Atheist</p>
