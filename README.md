@@ -55,9 +55,11 @@
     </tr>
   </TABLE>
 <p align="center"><img alt="Star Divider" src="https://github.com/user-attachments/assets/56762eef-08c0-48a8-9ce0-28167c0665bc"></p>
-<p align="center"><img alt="Be Kind to your Computer" src="https://github.com/user-attachments/assets/68fdf7cf-ceb8-4667-82b3-731cd00b2972">
-                  <img width="150" height="20" alt="Install uBlock Origin" src="https://github.com/user-attachments/assets/53bf3edf-ea6c-44ed-9c35-59ae5a8fa269">
-                  <img width="150" height="20" alt="X Button" src="https://github.com/user-attachments/assets/9697d562-c7dd-465d-90e9-d897dbeda0da">
+<p align="center"><img width="150" height="20"  alt="Winamp" src="https://github.com/user-attachments/assets/fe37d8d4-a933-47f7-9ab9-c0bd5997453b">
+                  <img alt="Tor Free the Internet" src="https://github.com/user-attachments/assets/1d05a01e-ee20-4983-9e20-7279c51955e7">
+                  <img alt="Be Kind to your Computer" src="https://github.com/user-attachments/assets/68fdf7cf-ceb8-4667-82b3-731cd00b2972">
+                  <!--<img width="150" height="20" alt="Install uBlock Origin" src="https://github.com/user-attachments/assets/53bf3edf-ea6c-44ed-9c35-59ae5a8fa269">
+                  <img width="150" height="20" alt="X Button" src="https://github.com/user-attachments/assets/9697d562-c7dd-465d-90e9-d897dbeda0da">-->
                   <img width="150" height="20" alt="Go Digital" src="https://github.com/user-attachments/assets/240faaa8-8759-42f3-8410-2771933f0d54"><br>
 <img width="150" height="20" alt="Science Fiction Reader" src="https://github.com/user-attachments/assets/6bc367d9-40a5-4d52-83e2-d85172c10b0b">
                   <img width="150" height="20" alt="Anime Freak" src="https://github.com/user-attachments/assets/23790819-749d-40e2-8124-e27c445a0318">
@@ -74,7 +76,8 @@
 <img width="150" height="20"  alt="Coffee Love" src="https://github.com/user-attachments/assets/772f4314-31c1-4cc7-a74f-917595454731">
                  <img width="150" height="20"  alt="IRL Hacker" src="https://github.com/user-attachments/assets/1d837f43-99f6-4ec0-93c3-cf5f3d007b31">
                  <img width="150" height="20"  alt="Winter Love" src="https://github.com/user-attachments/assets/97ec6582-16a7-470a-b2fa-5d242bb8a66e">
-                 <img width="150" height="20"  alt="Winamp" src="https://github.com/user-attachments/assets/fe37d8d4-a933-47f7-9ab9-c0bd5997453b"></p>
+                 <img alt="Science Lover" src="https://github.com/user-attachments/assets/30acae7e-e038-44c4-b86d-294072cbb940">
+                 <!--<img width="150" height="20"  alt="Winamp" src="https://github.com/user-attachments/assets/fe37d8d4-a933-47f7-9ab9-c0bd5997453b">--></p>
                  <p align="center">Qapla'!</p>
 <p align="center"><img width="150" height="20"  alt="You Will Be Assimilated" src="https://github.com/user-attachments/assets/a502b541-d991-4ed0-9b19-06ea9c37e098"></p>
 <!-- copy paste text
