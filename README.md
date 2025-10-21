@@ -5,7 +5,7 @@
     <p align="center">Name ✦ Riker and/or Jadzia <br><em>Other names ✦ Any charatcer I like or play as. My real name if you know me IRL. Any other name you may know me by. Lots of names on my <a href="https://en.pronouns.page/@borgriker">PronounsPage!</a></em></p>
     <p align="center">Age ✦ 18
     <p align="center">Pronouns ✦ Any</p>
-    <p align="center">Sexuality ✦ Pansexual, Polyamory, Paraphile</p>
+    <p align="center">Sexuality ✦ Abrosexual, Pansexual, Polyamory, Paraphile</p>
     <p align="center">Gender ✦ Multigender, Genderfluid, Genderflux</p>
     <p align="center">Nationality ✦ American</p>
     <p align="center">Languages ✦ English, some Spanish, Russian (reading), very minimal German and Norwegian</p>
