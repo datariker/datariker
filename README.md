@@ -49,8 +49,8 @@
       <p>❓ No DNI list. I do not judge people based on one (or a few) characteristics that they have. If we end up not getting along, then so be it. I'd rather have tried then not tried.</p>
       <p>🇨🇭 Diagnosed with depression and anxiety. I have had extensive emotional trauma so I have a very hard time interacting/socializing and I may come off as rude or standoffish even though I don't mean it <3 I sometimes have evident personality changes but I don't know/think it's anything relating to DID, OSDD, or any other similar disorder.</p>
       <p>☘️ This profile is always subject to updates.</p>
-      <p>❤️‍🩹 I work in healthcare. </p>
-      <p>Thank you for reading.</p>
+      <p>❤️‍🩹 I work in healthcare ＜3 </p>
+      <p>Thank you for reading!</p>
       </td>
     </tr>
   </TABLE>
