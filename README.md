@@ -2,7 +2,7 @@
 <!--Section 1-->
   <h3 align="center"><strong>𝐁𝐚𝐬𝐢𝐜 𝐈𝐧𝐟𝐨<br>────────────────────</strong></h3>
 <!--Info 1-->
-    <p align="center">Name ✦ Riker and/or Jadzia <br><em>Other names ✦ Any charatcer I like or play as. My real name if you know me IRL. Any other name you may know me by. Lots of names on my <a href="https://en.pronouns.page/@borgriker">PronounsPage!</a></em></p>
+    <p align="center">Name ✦ Riker and/or Jadzia <br><em>Other names ✦ Any charatcer I like or play as. My real name if you know me IRL (or I give you it). Any other name you may know me by. Lots of names on my <a href="https://en.pronouns.page/@borgriker">PronounsPage!</a></em></p>
     <p align="center">Age ✦ 18
     <p align="center">Pronouns ✦ Any</p>
     <p align="center">Sexuality ✦ Abrosexual, Pansexual, Polyamory, Paraphile</p>
@@ -30,8 +30,8 @@
  <h3 align="center"><strong>𝐅𝐚𝐧𝐝𝐨𝐦𝐬 & 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬</strong></h3>
    <TABLE BORDER>
     <tr>
-      <td><p>🧅 General ~ Coding, technology, writing, reading, history, vexillology, nature, and music.</p>
-      <p>📼 Music ~ Metal, disco, new wave, electronic, synthwave, ambient, j-pop, and rock. I'll listen to basically any genre. My favorite bands are Judas Priest and Blood Incantation. I have my Spotify linked, but I do not use it often. As you can see at the bottom, I'm a Winamp/Wacup fan.</p>
+      <td><p>🧅 General ~ Coding, technology, writing, reading, history, vexillology, nature, music, and martial arts.</p>
+      <p>📼 Music ~ Metal, disco, new wave, electronic, synthwave, ambient, j-pop, and rock. I'll listen to just about any genre. My favorite bands are Judas Priest and Blood Incantation.</p>
       <p>🎮 Games ~ Pony Town, Blue Archive, Star Trek Online, Sparkle 2 Evo</p>
       <p>🎲 Fandoms ~ Star Trek, Transformers, Star Wars, Mr. Robot, Anthropomorphic Geography/Countryhumans (Briefly, on the topic of countryhumans; I don't care what countries people make/like).</p>
       <p>📺 Media ~ Science fiction & vampire/werewolf/whateverthatis, halloween/spooky (not horror).</p>
