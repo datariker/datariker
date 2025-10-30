@@ -25,6 +25,8 @@
    <p align="center"><img width="20" height="20" alt="Discord Galactic Chrome Logo" src="https://github.com/user-attachments/assets/c3c918cf-2ff1-4743-8708-2b6f07ca6733">&nbsp;&nbsp;Reach me on Discord @<strong>borgdata</strong></p>
    <p align="center"><em>I follow back on socials!</em></p></td>
 <p align="center"><img alt="Star Divider" src="https://github.com/user-attachments/assets/56762eef-08c0-48a8-9ce0-28167c0665bc"></p>
+   <p align="center"><a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31l5e4puhwchdhd4yfww4z547hei&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31l5e4puhwchdhd4yfww4z547hei&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false"></a></p>
+<p align="center"><img alt="Star Divider" src="https://github.com/user-attachments/assets/56762eef-08c0-48a8-9ce0-28167c0665bc"></p>
 <!--<p align="center"><img alt="Green Arrow Divider" src="https://github.com/user-attachments/assets/7b1cd04a-049a-4561-a231-8e4046f8bcfd"></p>-->
 <!--Section 3-->
  <h3 align="center"><strong>𝐅𝐚𝐧𝐝𝐨𝐦𝐬 & 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬</strong></h3>
