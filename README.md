@@ -2,21 +2,21 @@
 <!--Section 1-->
   <h3 align="center"><strong>𝐁𝐚𝐬𝐢𝐜 𝐈𝐧𝐟𝐨<br>────────────────────</strong></h3>
 <!--Info 1-->
-    <p align="center">Name ✦ Riker and/or Jadzia <br><em>Other names ✦ Any charatcer I like or play as. My real name if you know me IRL (or I give you it). Any other name you may know me by. Lots of names on my <a href="https://en.pronouns.page/@borgriker">PronounsPage!</a></em></p>
+    <p align="center">Name ✦ Riker <br><em>Other names ✦ Any charatcer I like or play as. My real name if you know me IRL (or if I tell you). Any other name you may know me by. MANY names on my <a href="https://en.pronouns.page/@borgriker">PronounsPage</a></em></p>
     <p align="center">Age ✦ 18
     <p align="center">Pronouns ✦ Any</p>
-    <p align="center">Sexuality ✦ Abrosexual, Pansexual, Polyamory, Paraphile</p>
+    <p align="center">Sexuality ✦ Abrosexual, Pansexual, Polyamory, Paraphile. More specifics on my <a href="https://jadziariker.straw.page">Flag Page</a> (WIP)</p>
     <p align="center">Gender ✦ Multigender, Genderfluid, Genderflux</p>
     <p align="center">Nationality ✦ American</p>
-    <p align="center">Languages ✦ English, some Spanish, Russian (reading), very minimal German and Norwegian</p>
+    <p align="center">Languages ✦ English, some Spanish, Russian (reading)</p>
     <p align="center">Religion ✦ Agnostic/Atheist</p>
-    <p align="center">Political ✦ Leftist (or whateverthehell the Federation has going on... Capitalism is my #1 public enemy.)</p>
+    <p align="center">Political ✦ Leftist (or whateverthehell the Federation has going on)</p>
     <p align="center">Academic ✦ STEM Major. I love science and mathematics.</p>
 <p align="center"><img alt="Star Divider" src="https://github.com/user-attachments/assets/56762eef-08c0-48a8-9ce0-28167c0665bc"></p>
 <!--Section 2-->
  <h3 align="center"><strong>𝐋𝐢𝐧𝐤𝐬</strong></h3>
    <p align="center"><a href="https://www.patreon.com/c/mcspirk/about"><img width="150" height="20"  alt="Patreon Blinkie" src="https://github.com/user-attachments/assets/76a9ff5c-9903-4727-8347-8e3fe9048f16"></p>
-   <p align="center"><!--<a href="https://tiberiusriker.straw.page/">--><img width="150" height="20" alt="StrawPage Blinkie" src="https://github.com/user-attachments/assets/2a9f19d1-f0e9-46e9-8940-c555460f4977"><br><em>Reworking/On-hold</em></p>
+   <p align="center"><a href="https://tiberiusriker.straw.page/"><img width="150" height="20" alt="StrawPage Blinkie" src="https://github.com/user-attachments/assets/2a9f19d1-f0e9-46e9-8940-c555460f4977"></p>
    <p align="center"><a href="https://www.tumblr.com/rikercard"><img width="150" height="20" alt="Tumblr Blinkie" src="https://github.com/user-attachments/assets/2584d818-8358-4af5-8d3d-f254588b42fd"></p>
    <p align="center"><a href="https://en.pronouns.page/@borgriker"><img width="150" height="20"  alt="PronounsPage Blinkie" src="https://github.com/user-attachments/assets/225d8886-0c74-4b1a-a82b-d25dd5b1f4e2"></p>
    <p align="center"><a href="https://www.pinterest.com/rikertroi/"><img width="150" height="20"  alt="Pinterest Blinkie" src="https://github.com/user-attachments/assets/2befda75-f61d-4e62-bd5a-634d11fffe57"></p>
@@ -31,11 +31,11 @@
    <TABLE BORDER>
     <tr>
       <td><p>🧅 General ~ Coding, technology, writing, reading, history, vexillology, nature, music, and martial arts.</p>
-      <p>📼 Music ~ Metal, disco, new wave, electronic, synthwave, ambient, j-pop, and rock. I'll listen to just about any genre. My favorite bands are Judas Priest and Blood Incantation.</p>
-      <p>🎮 Games ~ Pony Town, Blue Archive, Star Trek Online, Sparkle 2 Evo</p>
-      <p>🎲 Fandoms ~ Star Trek, Transformers, Star Wars, Mr. Robot, Anthropomorphic Geography/Countryhumans (Briefly, on the topic of countryhumans; I don't care what countries people make/like).</p>
+      <p>📼 Music ~ Traditional heavy metal, death metal, glam metal, black metal, power metal, some OTHER metal genres I'm probably missing, #all-metal inclusive, disco, new wave, electronic, synthwave, ambient, j-pop, and classic rock, soft rock, progressive rock (my beloved 23 minute songs...). I'll listen to just about any genre. My favorite bands are Judas Priest and Blood Incantation.</p>
+      <p>🎮 Games ~ Pony Town, Blue Archive (can't believe r/senseiskitchen is gone 😔— does my remorse mean I'm canceled?), Star Trek Online, Sparkle 2 Evo (niche but cool TRUST... or am I just very odd?)</p>
+      <p>🎲 Fandoms ~ Star Trek, Transformers, Star Wars, Mr. Robot, Blue Archive</p>
       <p>📺 Media ~ Science fiction & vampire/werewolf/whateverthatis, halloween/spooky (not horror).</p>
-      <p>🎥 Currently watching ~ Deep Space Nine (binging babyyyyyy 😼😼), Mr. Robot</p>
+      <p>🎥 Currently watching ~ Deep Space Nine (binging babyyyyyy 😼😼), Transformers G1 (rewatch), The Acolyte (Wish me luck. Or are Star Wars fans just dramatic and picky and giving me the wrong impression?), also Mr. Robot (but on hold)</p>
       </td>
     </tr>
   </TABLE>
@@ -43,13 +43,13 @@
  <h3 align="center"><strong>𝐄𝐱𝐭𝐫𝐚/𝐁𝐘𝐈</strong></h3>
   <TABLE BORDER>
     <tr>
-      <td><p>⛔ Anti-censorship, anti-capitalist, anti-authoritarian</p>
-      <p>🍭 I like roleplaying, AUs, fanfiction, fanart, drawing, cosplaying, and all the classic fandom-y things.</p>
-      <p>💟 Multishipper, pro(fessional)shiper, darkshipper, comshipper, plus anything else.</p>
-      <p>❓ No DNI list. I do not judge people based on one (or a few) characteristics that they have. If we end up not getting along, then so be it. I'd rather have tried then not tried.</p>
-      <p>🇨🇭 Diagnosed with depression and anxiety. I have had extensive emotional trauma so I have a very hard time interacting/socializing and I may come off as rude or standoffish even though I don't mean it. I sometimes have evident personality changes but I don't know/think it's anything relating to DID, OSDD, or any other similar disorder. I can be very paranoid at times, which may effect how I act.</p>
-      <p>☘️ This profile is always subject to updates.</p>
-      <p>❤️‍🩹 I work in healthcare ＜3 </p>
+      <td><p>⛔ Anti-censorship, anti-capitalist, anti-authoritarian, anti-fascist, you get the just XD</p>
+      <p>🍭 I like roleplaying, AUs, fanfiction, fanart, drawing, cosplaying, and all the classic fandom-y things. I would love to cosplay with people and/or go to fandom cons! Also any art, writing, etc challenges are cool!</p>
+      <p>💟 Multishipper, pro(fessional)shiper, darkshipper, comshipper, plus anything else. I'm not guilty about what I ship but if some genuinely makes you uncomfortable, then I won't bring up darkships/comships/whatever around you. I have absolutely no problem with that!</p>
+      <p>❓ No STRICT DNI list. I do not judge people based on one (or a few) characteristics that they have. HOWEVER, I'm not a big fan of drama, so if you tend to start drama, please just keep it away from me. Most people reading this are from PT, and I'm just there to meet new people, chill, and make ponies, not start fights.</p>
+      <p>🇨🇭 Diagnosed with depression and anxiety. I have had extensive emotional trauma so I have a very hard time interacting/socializing (so, really, don't expect me to be perfectly fine all the time??). I usually open up once someone interacts first, but I am still super awkward until I get to know you!</p>
+      <p>☘️ I am ALWAYS updating this profile</p>
+      <p>❤️‍🩹 I've worked in healthcare ＜3 </p>
       <p>Thank you for reading!</p>
       </td>
     </tr>
@@ -78,7 +78,7 @@
                  <img width="150" height="20"  alt="Winter Love" src="https://github.com/user-attachments/assets/97ec6582-16a7-470a-b2fa-5d242bb8a66e">
                  <img alt="Science Lover" src="https://github.com/user-attachments/assets/30acae7e-e038-44c4-b86d-294072cbb940">
                  <!--<img width="150" height="20"  alt="Winamp" src="https://github.com/user-attachments/assets/fe37d8d4-a933-47f7-9ab9-c0bd5997453b">--></p>
-                 <p align="center">Qapla'!</p>
+                 <p align="center"><strong>QAPLA'!</strong></p>
 <p align="center"><img width="150" height="20"  alt="You Will Be Assimilated" src="https://github.com/user-attachments/assets/a502b541-d991-4ed0-9b19-06ea9c37e098"></p>
 <!-- copy paste text
 
