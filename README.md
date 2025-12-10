@@ -1,7 +1,7 @@
 <div align="center">
   <img alt="Welcome!" src="https://github.com/user-attachments/assets/5e984c4f-957c-42f7-b9be-60e6a08c3c06">
   <br><br><br>
-  <img hight="20" width="150" src="https://github.com/user-attachments/assets/6d004296-59dc-448e-88be-ad367cc3d4a9">
+  <img alt="open-24-hr"hight="20" width="150" src="https://github.com/user-attachments/assets/6d004296-59dc-448e-88be-ad367cc3d4a9">
   <br><br><br>
   <img alt="blue-divider" src="https://github.com/user-attachments/assets/f08e681c-fe22-4075-933f-507542d5f637">
   <br><br>
@@ -19,6 +19,23 @@
       <img hight="20" width="150" src="https://github.com/user-attachments/assets/45c871aa-f70c-4a23-a1e6-f062a234bd0e">
       <img hight="20" width="150" src="https://github.com/user-attachments/assets/68a0b773-618e-438a-9673-9cedcf208595">
       <img hight="20" width="150" src="https://github.com/user-attachments/assets/4b373c38-b8a9-4134-a6d6-633927931935"><br>
+      <img hight="20" width="150" src="https://github.com/user-attachments/assets/0c36840b-1071-4696-b8e6-396f144e9878">
+      <img alt="spock-that-is-illogical" hight="20" width="150" src="https://github.com/user-attachments/assets/bac98467-7342-452a-b77f-9564a094644b">
+      <img alt="true-klingon" hight="20" width="150" src="https://github.com/user-attachments/assets/9d018f5d-00a1-4839-bc2d-e24646de5e9c">
+      <img alt="borg-prepare-to-be-assimilated" hight="20" width="150" src="https://github.com/user-attachments/assets/c792ee4e-a4e4-4e38-8c4d-a21c43a106ee"><br>
+      <img alt="no-drama-zone" hight="20" width="150" src="https://github.com/user-attachments/assets/9053f804-78d4-4fc0-910d-0ae446eaf9d8">
+      <img alt="do-what-you-love" hight="20" width="150" src="https://github.com/user-attachments/assets/44ec4cd8-ce78-4c24-922e-406eaaf85212">
+      <img alt="reach-for-the-stars" hight="20" width="150" src="https://github.com/user-attachments/assets/5af6a461-a1fa-4931-a6a8-9a3f980cc370">
+      <img alt="Self Expression Not a Crime" hight="20" width="150" src="https://github.com/user-attachments/assets/8f764329-562e-40c6-bead-c2809a2961bc"><br>
+      <img alt="autism-is-fucking-metal" hight="20" width="150" src="https://github.com/user-attachments/assets/4814a998-6250-4e62-9479-7e13b1a213d7">
+      <img alt="adhd-haver" hight="20" width="150" src="https://github.com/user-attachments/assets/24dc49ae-b44d-4a43-bd20-a50ae0dcb0be">
+      <img alt="procrastination" hight="20" width="150" src="https://github.com/user-attachments/assets/063742a7-51cb-4133-b227-5f338a44716b">
+      <img alt="fighting-depression" hight="20" width="150" src="https://github.com/user-attachments/assets/07dbd6d7-4c1a-4d5d-83cf-ca27d04be862"><br>
+      <img alt="question-reality" hight="20" width="150" src="https://github.com/user-attachments/assets/fe0277f7-c24f-40fa-8ef0-2b78ec8dacf8">
+      <img alt="Free the Internet 3" hight="20" width="150" src="https://github.com/user-attachments/assets/c0f4cd74-999f-491b-85c2-a458948ca638">
+      <img alt="Science Must Continue" hight="20" width="150" src="https://github.com/user-attachments/assets/fdbc9c51-a63b-4ecb-9643-23c45f7308b1">
+      <img alt="Love is Universal" hight="20" width="150" src="https://github.com/user-attachments/assets/2e621a41-574f-4e0a-b5c4-299d4ce121f6"><br>
+      
   </details>
 </div>
 <!--<br><br>
