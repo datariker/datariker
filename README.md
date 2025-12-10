@@ -35,7 +35,39 @@
       <img alt="Free the Internet 3" hight="20" width="150" src="https://github.com/user-attachments/assets/c0f4cd74-999f-491b-85c2-a458948ca638">
       <img alt="Science Must Continue" hight="20" width="150" src="https://github.com/user-attachments/assets/fdbc9c51-a63b-4ecb-9643-23c45f7308b1">
       <img alt="Love is Universal" hight="20" width="150" src="https://github.com/user-attachments/assets/2e621a41-574f-4e0a-b5c4-299d4ce121f6"><br>
+      <img alt="insane" hight="20" width="150" src="https://github.com/user-attachments/assets/61e346f2-6287-4b87-862d-9bbc0f9e3d17">
+      <img alt="what" hight="20" width="150" src="https://github.com/user-attachments/assets/352a3bba-6487-4624-b747-8d0a12caa593">
+      <img alt="iamcrazy" hight="20" width="150" src="https://github.com/user-attachments/assets/9fa98ba2-74d6-4a72-9408-3de9865428ca">
+      <img alt="Need Coffee" hight="20" width="150" src="https://github.com/user-attachments/assets/1d02394a-7b05-4850-8ae7-6fd9b3b58ea5"><br>
+      <img alt="bxd-kitty" hight="20" width="150" src="https://github.com/user-attachments/assets/06c41081-fa8e-42c5-b532-0e458d9d91bf">
+      <img alt="save-dragons" hight="20" width="150" src="https://github.com/user-attachments/assets/def7b4df-c7dc-4966-875f-300b5ae4ed72">
+      <img alt="Blinkie rawr XD" hight="20" width="150" src="https://github.com/user-attachments/assets/ccb1110c-e40f-44c7-8890-61cbe330d197">
+      <img alt="Blinkie Snake Lover" hight="20" width="150" src="https://github.com/user-attachments/assets/95e795ee-2e03-45f5-8a24-127af520b51d"><br>
+      <img alt="pcaddict" hight="20" width="150" src="https://github.com/user-attachments/assets/9ec8bf0f-7a8a-4fcc-b000-7775253dd4f2">
+      <img alt="sudo-apt-kill-me" hight="20" width="150" src="https://github.com/user-attachments/assets/3fd7a5f0-8b83-48b5-84b5-05c94aca0baa">
+      <img alt="Distro Hopper" hight="20" width="150" src="https://github.com/user-attachments/assets/8e482812-112a-4524-bf03-4510d9f14e4b">
+      <img alt="Offensive Security" hight="20" width="150" src="https://github.com/user-attachments/assets/86963168-8830-4a28-a641-85d5e557da15"><br>
+      <img alt="Est Connections" hight="20" width="150" src="https://github.com/user-attachments/assets/c172e268-c3e1-48f3-a96e-bdb8ca3dcb2e">
+      <img alt="Out Of Order" hight="20" width="150" src="https://github.com/user-attachments/assets/7da724b0-fffe-4090-9636-e16e06757aef">
+      <img alt="rl computer glitch" hight="20" width="150" src="https://github.com/user-attachments/assets/ea95626e-eefe-4fa7-9b21-3c906b6ca811">
+      <img alt="Please Be Patient" hight="20" width="150" src="https://github.com/user-attachments/assets/c9b1a206-f550-45fa-a3b8-b6b685236c94"><br>
       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   </details>
 </div>
 <!--<br><br>
