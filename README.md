@@ -84,6 +84,7 @@
       <img height="20" width="150" src="https://github.com/user-attachments/assets/e78ab7d8-87d4-4b18-a18a-1fdb00e1c9b0">
       <img height="20" width="150" src="https://github.com/user-attachments/assets/784bd0a8-5a33-4c86-8d01-c8b648cf0793">
   </details>
+  <img height="80" title="Absolute Elsewhere" src="https://github.com/user-attachments/assets/ca6e9a75-7fe0-4f34-89c7-30c771bf31c1">
 </div>
 <!--<br><br>
 <p align="center">～～～</p>
