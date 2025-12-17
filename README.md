@@ -1,7 +1,8 @@
 <div align="center">
   <img alt="Welcome!" src="https://github.com/user-attachments/assets/5e984c4f-957c-42f7-b9be-60e6a08c3c06">
   <br><br><br>
-  <img alt="open-24-hr"hight="20" width="150" src="https://github.com/user-attachments/assets/6d004296-59dc-448e-88be-ad367cc3d4a9">
+  <!--<img alt="open-24-hr"hight="20" width="150" src="https://github.com/user-attachments/assets/6d004296-59dc-448e-88be-ad367cc3d4a9">-->
+  <img src="https://64.media.tumblr.com/848d8868e04d72b304d6134e9db7d3f4/tumblr_oy60yfUXMw1wqwex8o1_r1_400.gifv">
   <br><br><br>
   <img alt="blue-divider" src="https://github.com/user-attachments/assets/f08e681c-fe22-4075-933f-507542d5f637">
   <br><br>
