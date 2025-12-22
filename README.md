@@ -45,7 +45,8 @@
       <img alt="Blinkie rawr XD" height="20" width="150" src="https://github.com/user-attachments/assets/ccb1110c-e40f-44c7-8890-61cbe330d197">
       <img alt="Blinkie Snake Lover" height="20" width="150" src="https://github.com/user-attachments/assets/95e795ee-2e03-45f5-8a24-127af520b51d"><br>
       <img alt="pcaddict" height="20" width="150" src="https://github.com/user-attachments/assets/9ec8bf0f-7a8a-4fcc-b000-7775253dd4f2">
-      <img alt="sudo-apt-kill-me" height="20" width="150" src="https://github.com/user-attachments/assets/3fd7a5f0-8b83-48b5-84b5-05c94aca0baa">
+      <!--<img alt="sudo-apt-kill-me" height="20" width="150" src="https://github.com/user-attachments/assets/3fd7a5f0-8b83-48b5-84b5-05c94aca0baa">-->
+      <img alt="sudoKillMeNow" src="https://github.com/user-attachments/assets/ae4fd43d-5b69-4278-a3ea-3dfe229abd8f">
       <img alt="Distro Hopper" height="20" width="150" src="https://github.com/user-attachments/assets/8e482812-112a-4524-bf03-4510d9f14e4b">
       <img alt="Offensive Security" height="20" width="150" src="https://github.com/user-attachments/assets/86963168-8830-4a28-a641-85d5e557da15"><br>
       <img alt="Est Connections" height="20" width="150" src="https://github.com/user-attachments/assets/c172e268-c3e1-48f3-a96e-bdb8ca3dcb2e">
@@ -98,7 +99,8 @@
       <img height="20" src="https://github.com/user-attachments/assets/789065f9-4fcb-4cf8-815c-f1f08d21747e"><br>
       <img height="20" src="https://github.com/user-attachments/assets/212b09c1-d03e-4882-a471-c79ce15ecf0d">
       <img height="20" src="https://github.com/user-attachments/assets/0b0fb0bf-fd7e-41d7-a9f4-09d3b73aa739">
-      <img height="20" src="https://github.com/user-attachments/assets/73364f1d-23f7-4f76-b476-a0e925e26ead">
+      <!--<img height="20" src="https://github.com/user-attachments/assets/73364f1d-23f7-4f76-b476-a0e925e26ead">-->
+      <img width="150" height="20" src="https://github.com/user-attachments/assets/265c6873-e2c3-4e2e-bc64-eada89e519eb">
       <img height="20" src="https://github.com/user-attachments/assets/80cfb5e3-6da2-4abf-8be6-e8d4ee426bfc"><br>
       <img height="20" src="https://github.com/user-attachments/assets/d7ddd9be-96e9-4dea-8527-437bbed0d9b7">
       <img height="20" src="https://github.com/user-attachments/assets/358f0826-dfee-4219-b243-4f9085521af6">
@@ -125,7 +127,7 @@
       <img height="20" src="https://github.com/user-attachments/assets/43bef52a-a034-49bd-bfa9-68d61e46f1ab">
       <img height="20" src="https://github.com/user-attachments/assets/7dc84104-2a33-4e06-bb1b-0ee3d044675f">
   </details>
-    <code>Last updated: 17.12.25</code>
+    <code>Last updated: 22.12.25</code>
 </div>
 <!--<br><br>
 <p align="center">～～～</p>
