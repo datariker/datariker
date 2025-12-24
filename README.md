@@ -1,3 +1,5 @@
+<h1>wip, i am messing around</h1>
+ <p>${\textsf{\color{#8c0007} noraml stuff }}$</p>
 <div align="center">
   <img alt="Welcome!" src="https://github.com/user-attachments/assets/5e984c4f-957c-42f7-b9be-60e6a08c3c06">
   <br><br><br>
@@ -6,6 +8,28 @@
   <br><br><br>
   <img alt="blue-divider" src="https://github.com/user-attachments/assets/f08e681c-fe22-4075-933f-507542d5f637">
   <br><br>
+  <math display="block">
+    <msqrt mathcolor="tomato">
+      <mi mathcolor="darkgreen">lolxd</mi>
+    </msqrt>
+  </math>
+  ${\textsf{\color{#8c0007}noraml stuff}}$
+  <details>
+    <summary>quick pt stuff!</summary>
+    <img width="10" height="10" alt="proHeart" src="https://github.com/user-attachments/assets/cb7890f9-0526-4ffc-aeae-38f03aeec383">Usually by pro-tree<img width="10" height="10" alt="proHeart" src="https://github.com/user-attachments/assets/cb7890f9-0526-4ffc-aeae-38f03aeec383"><br>
+    C+H and INT always welcome! Tho please don't cover my entire pony unless you're my friend<br><br>
+    <strong>Status stuff</strong><br>
+    🟢 - Online and probably willing to talk!<br>
+    🌙 - Either <em>actually AFK</em> or lurking<br>
+    ⛔ - I only use this if I'm feeling bad/irritated, so please IWC when I have it :,><br>
+  </details>
+    <details>
+      <summary>ship list!! :0</summary><sup>will be adding images soon 0vo</sup><br>
+      <math>Kirk/Spock</maction>
+  </details>
+    <details>
+    <summary>fave chars list <3</summary><br>
+  </details>
   <details>
     <summary>click for blinkies!</summary><br>
       <img height="20" width="150" src="https://github.com/user-attachments/assets/ed821bd0-d606-4bfe-9b60-df2aa75a1557">
