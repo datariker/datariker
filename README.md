@@ -19,14 +19,14 @@
   <details>
     <summary>quick pt stuff!</summary>
     <img width="10" height="10" alt="proHeart" src="https://github.com/user-attachments/assets/cb7890f9-0526-4ffc-aeae-38f03aeec383">Usually by pro-tree<img width="10" height="10" alt="proHeart" src="https://github.com/user-attachments/assets/cb7890f9-0526-4ffc-aeae-38f03aeec383"><br>
-    C+H and INT always welcome! Tho please don't cover my entire pony unless you're my friend<br><br>
-    <cdoe>Status stuff</code><br>
+    C+H and INT always welcome! Please don't cover my entire/a large amount of my pony unless you're my friend<br><br>
+    <code>Status stuff</code><br>
     🟢 - Online and probably willing to talk!<br>
     🌙 - Either <em>actually AFK</em> or lurking<br>
     ⛔ - I only use this if I'm feeling bad/irritated, so please IWC when I have it :,><br>
   </details>
   <details>
-   <summary>ship list!! :0</summary><sup>will be adding images soon 0vo</sup><br>
+   <summary>ship list!!</summary><sup>will be adding images soon ^^</sup><br>
    <div>${\textsf{\color{#F9B448}Kirk/Spock}}$ the og gays!<img width="10" height="10" alt="gayFlag" src="https://github.com/user-attachments/assets/a2602981-aca5-4a8e-ae55-13702d613ae7"></div>
    <div>${\textsf{\color{#CC1F3B}Riker/Picard}}$ (my (unfortunately) very niche OTP!!)</div>
    <div>${\textsf{\color{#5993F7}McSprik}}$ (my OT3!!!)</div>
@@ -44,8 +44,7 @@
    <div>${\textsf{\color{#4112A8}Wavewave}}$</div>
    <div>${\textsf{\color{#F48732}Rodimags}}$</div>
    <div>${\textsf{\color{#9ED1FA}Opbee}}$</div>
-   <p>${\textsf{\color{#B61313}𝗣𝗦: 𝗧𝗵𝗲𝗿𝗲 𝗮𝗿𝗲 𝗺𝗼𝘀𝘁 𝗰𝗲𝗿𝘁𝗮𝗶𝗻𝗹𝘆 𝗰𝗼𝗺𝘀𝗵𝗶𝗽𝘀 𝗮𝗻𝗱 𝗱𝗮𝗿𝗸𝘀𝗵𝗶𝗽𝘀 𝗼𝗻 𝗵𝗲𝗿𝗲. 𝗙𝗶𝗿𝘀𝘁, 𝗜 𝘄𝗶𝗹𝗹 𝘀𝗮𝘆: 𝗦𝗵𝗶𝗽𝗽𝗶𝗻𝗴 𝗳𝗶𝗰𝘁𝗶𝗼𝗻𝗮𝗹 𝗰𝗵𝗮𝗿𝗮𝗰𝘁𝗲𝗿𝘀 𝘁𝗼𝗴𝗲𝘁𝗵𝗲𝗿 𝗱𝗼𝗲𝘀 𝗻𝗼𝘁 𝗺𝗲𝗮𝗻 𝘆𝗼𝘂 𝘀𝘂𝗽𝗽𝗼𝗿𝘁 𝘀𝗮𝗶𝗱 𝗱𝘆𝗮𝗻𝗺𝗶𝗰 𝗶𝗻 𝗿𝗲𝗮𝗹 𝗹𝗶𝗳𝗲 𝗻𝗼𝗿 𝗶𝘀 𝘁𝗵𝗲𝗿𝗲 𝗮𝗻𝘆 𝗲𝘃𝗶𝗱𝗲𝗻𝗰𝗲 𝘀𝘂𝗽𝗽𝗼𝗿𝘁𝗶𝗻𝗴 𝘁𝗵𝗮𝘁 𝗳𝗶𝗰𝘁𝗶𝗼𝗻𝗮𝗹 𝗰𝗼𝗻𝘁𝗲𝗻𝘁 𝗱𝗲𝗽𝗶𝗰𝘁𝗶𝗻𝗴 𝗱𝗮𝗿𝗸 𝘁𝗼𝗽𝗶𝗰𝘀 𝗶𝘀 𝗮 𝗱𝗶𝗿𝗲𝗰𝘁 𝗰𝗮𝘂𝘀𝗲 𝗼𝗳 𝗿𝗲𝗮𝗹-𝗹𝗶𝗳𝗲 𝗰𝗿𝗶𝗺𝗲𝘀}}$</p>
-   <div>${\textsf{\color{#B61313}𝗦𝗲𝗰𝗼𝗻𝗱, 𝗜 𝘄𝗶𝗹𝗹 𝘀𝗮𝘆: 𝗜𝗳 𝗮𝗻𝘆 𝗼𝗳 𝗺𝘆 𝗳𝗮𝘃𝗼𝗿𝗶𝘁𝗲 𝘀𝗵𝗶𝗽𝘀 𝗺𝗮𝗸𝗲𝘀 𝘆𝗼𝘂 𝘂𝗻𝗰𝗼𝗺𝗳𝗼𝗿𝘁𝗮𝗯𝗹𝗲, 𝗹𝗲𝘁 𝗺𝗲 𝗸𝗻𝗼𝘄. 𝗜'𝗹𝗹 𝗱𝗼 𝗺𝘆 𝗯𝗲𝘀𝘁 𝘁𝗼 𝗮𝗰𝗰𝗼𝗺𝗼𝗱𝗮𝘁𝗲 𝘆𝗼𝘂𝗿 𝗻𝗲𝗲𝗱𝘀}}$</div>
+   <img width="320" height="320" alt="warning1" src="https://github.com/user-attachments/assets/9ac561fe-0555-42c5-878c-38be1bf9950b">
   </details>
   <details>
     <summary>fave chars list <3</summary><br>
