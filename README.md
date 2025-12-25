@@ -1,5 +1,13 @@
-<h1>wip, i am messing around</h1>
- <p>${\textsf{\color{#8c0007} noraml stuff }}$</p>
+<!--<h1>wip, i am messing around</h1>
+
+  <p align="center"><details>
+    <summary>fave chars list <3</summary><br>
+     ${\textsf{\color{#8c0007} noraml stuff }}$
+  </details></p>
+  
+ <div align="center"><p>${\textsf{\color{#8c0007} noraml stuff }}$</p></div>
+ 
+ <div align="center">${\textsf{\color{#8c0007} noraml stuff }}$</div>-->
 <div align="center">
   <img alt="Welcome!" src="https://github.com/user-attachments/assets/5e984c4f-957c-42f7-b9be-60e6a08c3c06">
   <br><br><br>
@@ -8,26 +16,38 @@
   <br><br><br>
   <img alt="blue-divider" src="https://github.com/user-attachments/assets/f08e681c-fe22-4075-933f-507542d5f637">
   <br><br>
-  <math display="block">
-    <msqrt mathcolor="tomato">
-      <mi mathcolor="darkgreen">lolxd</mi>
-    </msqrt>
-  </math>
-  ${\textsf{\color{#8c0007}noraml stuff}}$
   <details>
     <summary>quick pt stuff!</summary>
     <img width="10" height="10" alt="proHeart" src="https://github.com/user-attachments/assets/cb7890f9-0526-4ffc-aeae-38f03aeec383">Usually by pro-tree<img width="10" height="10" alt="proHeart" src="https://github.com/user-attachments/assets/cb7890f9-0526-4ffc-aeae-38f03aeec383"><br>
     C+H and INT always welcome! Tho please don't cover my entire pony unless you're my friend<br><br>
-    <strong>Status stuff</strong><br>
+    <cdoe>Status stuff</code><br>
     🟢 - Online and probably willing to talk!<br>
     🌙 - Either <em>actually AFK</em> or lurking<br>
     ⛔ - I only use this if I'm feeling bad/irritated, so please IWC when I have it :,><br>
   </details>
-    <details>
-      <summary>ship list!! :0</summary><sup>will be adding images soon 0vo</sup><br>
-      <math>Kirk/Spock</maction>
+  <details>
+   <summary>ship list!! :0</summary><sup>will be adding images soon 0vo</sup><br>
+   <div>${\textsf{\color{#F9B448}Kirk/Spock}}$ the og gays!<img width="10" height="10" alt="gayFlag" src="https://github.com/user-attachments/assets/a2602981-aca5-4a8e-ae55-13702d613ae7"></div>
+   <div>${\textsf{\color{#CC1F3B}Riker/Picard}}$ (my (unfortunately) very niche OTP!!)</div>
+   <div>${\textsf{\color{#5993F7}McSprik}}$ (my OT3!!!)</div>
+   <div>${\textsf{\color{#B2A7F9}Obikin}}$ (my oldTP)</div>
+   <div>${\textsf{\color{#D0D9FA}Megastar}}$ (my OTHER oldTP)</div>
+   <div>${\textsf{\color{#822020}Dukat/Sisko}}$ (Disko hehe) <img width="10" height="10" alt="discoBall" src="https://github.com/user-attachments/assets/1031b16b-fe7c-454a-9cbf-6a9c0e7972df"></div>
+   <div>${\textsf{\color{#208258}Garashir}}$</div>
+   <div>${\textsf{\color{#F8CD4F}DaForge}}$</div>
+   <div>${\textsf{\color{#684FF8}Boimler/Ransom}}$</div>
+   <div>${\textsf{\color{#CE9BD3}Dukat/Ziyal}}$</div>
+   <div>${\textsf{\color{#FB5D5D}Data/Riker!!}}$ (OMGG there's just something about them)</div>
+   <div>${\textsf{\color{#E4BF2F}Jiles!!}}$ (they def had something going on..)</div>
+   <div>${\textsf{\color{#FD99D0}P/K}}$ (all the way!)</div>
+   <div>${\textsf{\color{#F033AB}JSeveeeennnn... J7!!!}}$</div>
+   <div>${\textsf{\color{#4112A8}Wavewave}}$</div>
+   <div>${\textsf{\color{#F48732}Rodimags}}$</div>
+   <div>${\textsf{\color{#9ED1FA}Opbee}}$</div>
+   <p>${\textsf{\color{#B61313}𝗣𝗦: 𝗧𝗵𝗲𝗿𝗲 𝗮𝗿𝗲 𝗺𝗼𝘀𝘁 𝗰𝗲𝗿𝘁𝗮𝗶𝗻𝗹𝘆 𝗰𝗼𝗺𝘀𝗵𝗶𝗽𝘀 𝗮𝗻𝗱 𝗱𝗮𝗿𝗸𝘀𝗵𝗶𝗽𝘀 𝗼𝗻 𝗵𝗲𝗿𝗲. 𝗙𝗶𝗿𝘀𝘁, 𝗜 𝘄𝗶𝗹𝗹 𝘀𝗮𝘆: 𝗦𝗵𝗶𝗽𝗽𝗶𝗻𝗴 𝗳𝗶𝗰𝘁𝗶𝗼𝗻𝗮𝗹 𝗰𝗵𝗮𝗿𝗮𝗰𝘁𝗲𝗿𝘀 𝘁𝗼𝗴𝗲𝘁𝗵𝗲𝗿 𝗱𝗼𝗲𝘀 𝗻𝗼𝘁 𝗺𝗲𝗮𝗻 𝘆𝗼𝘂 𝘀𝘂𝗽𝗽𝗼𝗿𝘁 𝘀𝗮𝗶𝗱 𝗱𝘆𝗮𝗻𝗺𝗶𝗰 𝗶𝗻 𝗿𝗲𝗮𝗹 𝗹𝗶𝗳𝗲 𝗻𝗼𝗿 𝗶𝘀 𝘁𝗵𝗲𝗿𝗲 𝗮𝗻𝘆 𝗲𝘃𝗶𝗱𝗲𝗻𝗰𝗲 𝘀𝘂𝗽𝗽𝗼𝗿𝘁𝗶𝗻𝗴 𝘁𝗵𝗮𝘁 𝗳𝗶𝗰𝘁𝗶𝗼𝗻𝗮𝗹 𝗰𝗼𝗻𝘁𝗲𝗻𝘁 𝗱𝗲𝗽𝗶𝗰𝘁𝗶𝗻𝗴 𝗱𝗮𝗿𝗸 𝘁𝗼𝗽𝗶𝗰𝘀 𝗶𝘀 𝗮 𝗱𝗶𝗿𝗲𝗰𝘁 𝗰𝗮𝘂𝘀𝗲 𝗼𝗳 𝗿𝗲𝗮𝗹-𝗹𝗶𝗳𝗲 𝗰𝗿𝗶𝗺𝗲𝘀}}$</p>
+   <div>${\textsf{\color{#B61313}𝗦𝗲𝗰𝗼𝗻𝗱, 𝗜 𝘄𝗶𝗹𝗹 𝘀𝗮𝘆: 𝗜𝗳 𝗮𝗻𝘆 𝗼𝗳 𝗺𝘆 𝗳𝗮𝘃𝗼𝗿𝗶𝘁𝗲 𝘀𝗵𝗶𝗽𝘀 𝗺𝗮𝗸𝗲𝘀 𝘆𝗼𝘂 𝘂𝗻𝗰𝗼𝗺𝗳𝗼𝗿𝘁𝗮𝗯𝗹𝗲, 𝗹𝗲𝘁 𝗺𝗲 𝗸𝗻𝗼𝘄. 𝗜'𝗹𝗹 𝗱𝗼 𝗺𝘆 𝗯𝗲𝘀𝘁 𝘁𝗼 𝗮𝗰𝗰𝗼𝗺𝗼𝗱𝗮𝘁𝗲 𝘆𝗼𝘂𝗿 𝗻𝗲𝗲𝗱𝘀}}$</div>
   </details>
-    <details>
+  <details>
     <summary>fave chars list <3</summary><br>
   </details>
   <details>
