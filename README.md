@@ -18,37 +18,52 @@
   <br><br>
   <details>
     <summary>quick pt stuff!</summary>
-    <img width="10" height="10" alt="proHeart" src="https://github.com/user-attachments/assets/cb7890f9-0526-4ffc-aeae-38f03aeec383">Usually by pro-tree<img width="10" height="10" alt="proHeart" src="https://github.com/user-attachments/assets/cb7890f9-0526-4ffc-aeae-38f03aeec383"><br>
-    C+H and INT always welcome! Please don't cover my entire/a large amount of my pony unless you're my friend<br><br>
-    <code>Status stuff</code><br>
-    🟢 - Online and probably willing to talk!<br>
-    🌙 - Either <em>actually AFK</em> or lurking<br>
-    ⛔ - I only use this if I'm feeling bad/irritated, so please IWC when I have it :,><br>
+      <img width="10" height="10" alt="proHeart" src="https://github.com/user-attachments/assets/cb7890f9-0526-4ffc-aeae-38f03aeec383">Usually by pro-tree<img width="10" height="10" alt="proHeart" src="https://github.com/user-attachments/assets/cb7890f9-0526-4ffc-aeae-38f03aeec383"><br>
+      C+H and INT always welcome! Please don't cover my entire/a large amount of my pony unless you're my friend<br><br>
+      <code>Status stuff</code><br>
+        🟢 - Online and probably willing to talk!<br>
+        🌙 - Either <em>actually AFK</em> or lurking<br>
+        ⛔ - I only use this if I'm feeling bad/irritated, so please IWC when I have it :,><br>
   </details>
   <details>
-   <summary>ship list!!</summary><sup>will be adding images soon ^^</sup><br>
-   <div>${\textsf{\color{#F9B448}Kirk/Spock}}$ the og gays!<img width="10" height="10" alt="gayFlag" src="https://github.com/user-attachments/assets/a2602981-aca5-4a8e-ae55-13702d613ae7"></div>
-   <div>${\textsf{\color{#CC1F3B}Riker/Picard}}$ (my (unfortunately) very niche OTP!!)</div>
-   <div>${\textsf{\color{#5993F7}McSprik}}$ (my OT3!!!)</div>
-   <div>${\textsf{\color{#B2A7F9}Obikin}}$ (my oldTP)</div>
-   <div>${\textsf{\color{#D0D9FA}Megastar}}$ (my OTHER oldTP)</div>
-   <div>${\textsf{\color{#822020}Dukat/Sisko}}$ (Disko hehe) <img width="10" height="10" alt="discoBall" src="https://github.com/user-attachments/assets/1031b16b-fe7c-454a-9cbf-6a9c0e7972df"></div>
-   <div>${\textsf{\color{#208258}Garashir}}$</div>
-   <div>${\textsf{\color{#F8CD4F}DaForge}}$</div>
-   <div>${\textsf{\color{#684FF8}Boimler/Ransom}}$</div>
-   <div>${\textsf{\color{#CE9BD3}Dukat/Ziyal}}$</div>
-   <div>${\textsf{\color{#FB5D5D}Data/Riker!!}}$ (OMGG there's just something about them)</div>
-   <div>${\textsf{\color{#E4BF2F}Jiles!!}}$ (they def had something going on..)</div>
-   <div>${\textsf{\color{#FD99D0}P/K}}$ (all the way!)</div>
-   <div>${\textsf{\color{#F033AB}JSeveeeennnn... J7!!!}}$</div>
-   <div>${\textsf{\color{#4112A8}Wavewave}}$</div>
-   <div>${\textsf{\color{#F48732}Rodimags}}$</div>
-   <div>${\textsf{\color{#9ED1FA}Opbee}}$</div>
-   <img width="320" height="320" alt="warning1" src="https://github.com/user-attachments/assets/9ac561fe-0555-42c5-878c-38be1bf9950b"><br>
-   <img width="320" height="196" alt="warning2" src="https://github.com/user-attachments/assets/67c72ec7-1c83-4da3-825e-cf9190147042">
+    <summary>ship list!!</summary><sup>will be adding images soon ^^</sup><br>
+      <div>${\textsf{\color{#F9B448}Kirk/Spock}}$ the og gays!<img width="10" height="10" alt="gayFlag" src="https://github.com/user-attachments/assets/a2602981-aca5-4a8e-ae55-13702d613ae7"></div>
+      <div>${\textsf{\color{#CC1F3B}Riker/Picard}}$ (my (unfortunately) very niche OTP!!)</div>
+      <div>${\textsf{\color{#5993F7}McSprik}}$ (my OT3!!!)</div>
+      <div>${\textsf{\color{#B2A7F9}Obikin}}$ (my oldTP)</div>
+      <div>${\textsf{\color{#D0D9FA}Megastar}}$ (my OTHER oldTP)</div>
+      <div>${\textsf{\color{#822020}Dukat/Sisko}}$ (Disko hehe) <img width="10" height="10" alt="discoBall" src="https://github.com/user-attachments/assets/1031b16b-fe7c-454a-9cbf-6a9c0e7972df"></div>
+      <div>${\textsf{\color{#208258}Garashir}}$</div>
+      <div>${\textsf{\color{#F8CD4F}DaForge}}$</div>
+      <div>${\textsf{\color{#684FF8}Boimler/Ransom}}$</div>
+      <div>${\textsf{\color{#CE9BD3}Dukat/Ziyal}}$</div>
+      <div>${\textsf{\color{#FB5D5D}Data/Riker!!}}$ (OMGG there's just something about them)</div>
+      <div>${\textsf{\color{#E4BF2F}Jiles!!}}$ (they def had something going on..)</div>
+      <div>${\textsf{\color{#FD99D0}P/K}}$ (all the way!)</div>
+      <div>${\textsf{\color{#F033AB}JSeveeeennnn... J7!!!}}$</div>
+      <div>${\textsf{\color{#4112A8}Wavewave}}$</div>
+      <div>${\textsf{\color{#F48732}Rodimags}}$</div>
+      <div>${\textsf{\color{#9ED1FA}Opbee}}$</div>
+      <img width="320" height="320" alt="warning1" src="https://github.com/user-attachments/assets/be5b077c-bd98-471c-af9b-9c8d98232023"><br>
+      <img width="320" height="196" alt="warning2" src="https://github.com/user-attachments/assets/67c72ec7-1c83-4da3-825e-cf9190147042">
   </details>
   <details>
-    <summary>fave chars list <3</summary><br>
+    <summary>fave chars list <3</summary><sup>will be adding images soon here as well :)</sup><br>
+      <div>${\textsf{\color{#E92E49}Will Riker!!}}$ (obvs)</div>
+      <div>${\textsf{\color{#9796EA}Wesley Crusher}}$ (very relatable)</div>
+      <div>${\textsf{\color{#CCB4C5}Gul Dukat!!}}$ (fave villain >:)</div>
+      <div>${\textsf{\color{#FFB74C}Jim Kirk}}$</div>
+      <div>${\textsf{\color{#5EBDFC}Bradward Boimler}}$ (literally me irl!!)</div>
+      <div>${\textsf{\color{#F5DC7A}Reginald Barclay}}$ (also very relatable)</div>
+      <div>${\textsf{\color{#D37A47}Tuvok}}$</div>
+      <div>${\textsf{\color{#BD1111}Benjamin Sisko}}$ (we have jesus at the space station..)</div>
+      <div>${\textsf{\color{#971DAF}Megatron}}$ (used to be my fave villian, i love all versions of him, i particularly love unicron trilogy and g1 megs :)</div>
+      <div>${\textsf{\color{#5472CC}Ultra Magnus}}$</div>
+      <div>${\textsf{\color{#FF4B3E}Starscream}}$ (also love all versions, but particularly unicron trilogy and g1 :p)</div>
+      <div>${\textsf{\color{#6ECCFC}The Team!!}}$ (Obi-Wan, Anakin, and Ahsoka!)</div>
+      <div>${\textsf{\color{#6DC171}Din Djarin}}$</div>
+      <div>${\textsf{\color{#9EA4B1}TARS}}$ (my favorite metal rectangle YEAHHHHH!!!!)</div>
+      <div>In the end, I like most if not all charatcers <3</div>
   </details>
   <details>
     <summary>click for blinkies!</summary><br>
