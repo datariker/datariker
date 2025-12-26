@@ -64,6 +64,7 @@
       <div>${\textsf{\color{#6DC171}Din Djarin}}$</div>
       <div>${\textsf{\color{#9EA4B1}TARS}}$ (my favorite metal rectangle YEAHHHHH!!!!)</div>
       <div>In the end, I like most if not all charatcers <3</div>
+      <img width="320" height="279" alt="warning3" src="https://github.com/user-attachments/assets/09bf20c0-ef71-47c0-9f58-b12773b091d9">
   </details>
   <details>
     <summary>click for blinkies!</summary><br>
@@ -186,7 +187,7 @@
       <img height="20" src="https://github.com/user-attachments/assets/43bef52a-a034-49bd-bfa9-68d61e46f1ab">
       <img height="20" src="https://github.com/user-attachments/assets/7dc84104-2a33-4e06-bb1b-0ee3d044675f">
   </details>
-    <code>Last updated: 22.12.25</code>
+    <code>Last updated: 25.12.25</code>
 </div>
 <!--<br><br>
 <p align="center">～～～</p>
