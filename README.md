@@ -44,7 +44,8 @@
    <div>${\textsf{\color{#4112A8}Wavewave}}$</div>
    <div>${\textsf{\color{#F48732}Rodimags}}$</div>
    <div>${\textsf{\color{#9ED1FA}Opbee}}$</div>
-   <img width="320" height="320" alt="warning1" src="https://github.com/user-attachments/assets/9ac561fe-0555-42c5-878c-38be1bf9950b">
+   <img width="320" height="320" alt="warning1" src="https://github.com/user-attachments/assets/9ac561fe-0555-42c5-878c-38be1bf9950b"><br>
+   <img width="320" height="196" alt="warning2" src="https://github.com/user-attachments/assets/67c72ec7-1c83-4da3-825e-cf9190147042">
   </details>
   <details>
     <summary>fave chars list <3</summary><br>
