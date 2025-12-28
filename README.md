@@ -17,7 +17,7 @@
   <img alt="blue-divider" src="https://github.com/user-attachments/assets/f08e681c-fe22-4075-933f-507542d5f637">
   <br><br>
   <details>
-    <summary>quick pt stuff!</summary>
+    <summary><img width="115" height="27" alt="Screenshot 2025-12-27 190008" src="https://github.com/user-attachments/assets/a29bbba5-072d-45e7-ae63-a63a6d830a8d"></summary>
       <img width="10" height="10" alt="proHeart" src="https://github.com/user-attachments/assets/cb7890f9-0526-4ffc-aeae-38f03aeec383">Usually by pro-tree<img width="10" height="10" alt="proHeart" src="https://github.com/user-attachments/assets/cb7890f9-0526-4ffc-aeae-38f03aeec383"><br>
       C+H and INT always welcome! Please don't cover my entire/a large amount of my pony unless you're my friend<br><br>
       <code>Status stuff</code><br>
