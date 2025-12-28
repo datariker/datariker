@@ -1,13 +1,3 @@
-<!--<h1>wip, i am messing around</h1>
-
-  <p align="center"><details>
-    <summary>fave chars list <3</summary><br>
-     ${\textsf{\color{#8c0007} noraml stuff }}$
-  </details></p>
-  
- <div align="center"><p>${\textsf{\color{#8c0007} noraml stuff }}$</p></div>
- 
- <div align="center">${\textsf{\color{#8c0007} noraml stuff }}$</div>-->
 <div align="center">
   <img alt="Welcome!" src="https://github.com/user-attachments/assets/5e984c4f-957c-42f7-b9be-60e6a08c3c06"><br><sup>This page incorporates LaTeX, which may not work on some browsers or devices. If you have NoScript or any script-blocking extension, unblock githubassets to see this page as intended.</sup>
   <br><br><br>
@@ -17,7 +7,7 @@
   <img alt="blue-divider" src="https://github.com/user-attachments/assets/f08e681c-fe22-4075-933f-507542d5f637">
   <br><br>
   <details>
-    <summary><img width="115" height="27" alt="Screenshot 2025-12-27 190008" src="https://github.com/user-attachments/assets/a29bbba5-072d-45e7-ae63-a63a6d830a8d"></summary>
+    <summary><img width="115" height="27" alt="ponytownB" src="https://github.com/user-attachments/assets/a29bbba5-072d-45e7-ae63-a63a6d830a8d"></summary>
       <div>
         <img width="10" height="10" alt="proHeart" src="https://github.com/user-attachments/assets/cb7890f9-0526-4ffc-aeae-38f03aeec383">${\textsf{\color{#f956b3}Usually by pro-tree}}$<img width="10" height="10" alt="proHeart" src="https://github.com/user-attachments/assets/cb7890f9-0526-4ffc-aeae-38f03aeec383"><br>
       ${\textsf{\color{#f956b3}C+H and INT always welcome!}}$<br>${\textsf{\color{#f956b3}Please don't cover my entire/a large amount of my pony unless you're my friend}}$
@@ -30,7 +20,7 @@
         </div>
   </details>
   <details>
-    <summary>ship list!!</summary><sup>may (or may not) be adding images soon (laughs in too lazy to find perfect images)</sup><br>
+    <summary><img width="92" height="28" alt="shiplistB" src="https://github.com/user-attachments/assets/db8c95be-a807-4fd1-9bea-6c88410f91b4"></summary><sup>may (or may not) be adding images soon (laughs in too lazy to find perfect images)</sup><br>
       <div>${\textsf{\color{#F9B448}Kirk/Spock}}$ the og gays!<img width="10" height="10" alt="gayFlag" src="https://github.com/user-attachments/assets/a2602981-aca5-4a8e-ae55-13702d613ae7"></div>
       <div>${\textsf{\color{#CC1F3B}Riker/Picard}}$ (my (unfortunately) very niche OTP!!)</div>
       <div>${\textsf{\color{#5993F7}McSprik}}$ (my OT3!!!)</div>
@@ -48,13 +38,11 @@
       <div>${\textsf{\color{#4112A8}Wavewave}}$</div>
       <div>${\textsf{\color{#F48732}Rodimags}}$</div>
       <div>${\textsf{\color{#9ED1FA}Opbee}}$</div><br>
-      <img width="382" height="168" alt="Screenshot 2025-12-27 210335" src="https://github.com/user-attachments/assets/85b43dd7-83dc-431f-aef2-092a35de8f17"><br>
-      <img width="382" height="127" alt="Screenshot 2025-12-27 210343" src="https://github.com/user-attachments/assets/97e0e4b4-52bf-4d34-b8a0-d779405b9cda">
-      <!--<img width="320" height="320" alt="warning1" src="https://github.com/user-attachments/assets/be5b077c-bd98-471c-af9b-9c8d98232023"><br>
-      <img width="320" height="196" alt="warning2" src="https://github.com/user-attachments/assets/67c72ec7-1c83-4da3-825e-cf9190147042">-->
+      <img width="382" height="168" alt="ps1" src="https://github.com/user-attachments/assets/85b43dd7-83dc-431f-aef2-092a35de8f17"><br>
+      <img width="382" height="127" alt="ps2" src="https://github.com/user-attachments/assets/97e0e4b4-52bf-4d34-b8a0-d779405b9cda">
   </details>
   <details>
-    <summary>fave chars list <3</summary><sup>will be adding images soon here as well :)</sup><br>
+    <summary><img width="112" height="29" alt="favecharB" src="https://github.com/user-attachments/assets/8019d42a-faeb-45a1-a1cc-a31d0a650518"></summary><sup>will (maybe) be adding images here soon as well :)</sup><br>
       <div>${\textsf{\color{#E92E49}Will Riker!!}}$ (obvs)</div>
       <div>${\textsf{\color{#9796EA}Wesley Crusher}}$ (very relatable)</div>
       <div>${\textsf{\color{#CCB4C5}Gul Dukat!!}}$ (fave villain >:)</div>
@@ -69,11 +57,11 @@
       <div>${\textsf{\color{#6ECCFC}The Team!!}}$ (Obi-Wan, Anakin, and Ahsoka!)</div>
       <div>${\textsf{\color{#6DC171}Din Djarin}}$</div>
       <div>${\textsf{\color{#9EA4B1}TARS}}$ (my favorite metal rectangle YEAHHHHH!!!!)</div>
-      <div>In the end, I like most if not all charatcers <3</div>
-      <img width="320" height="279" alt="warning3" src="https://github.com/user-attachments/assets/09bf20c0-ef71-47c0-9f58-b12773b091d9">
+      <div>In the end, I like most if not all charatcers <3</div><br>
+      <img width="382" height="127" alt="ps3" src="https://github.com/user-attachments/assets/47d79084-2392-444b-b640-7ec47ffb81a1">
   </details>
   <details>
-    <summary>click for blinkies!</summary><br>
+    <summary><img width="127" height="28" alt="blinkiesB" src="https://github.com/user-attachments/assets/0e168785-2d3e-480a-a8a0-cf27882215a9"></summary>
       <img height="20" width="150" src="https://github.com/user-attachments/assets/ed821bd0-d606-4bfe-9b60-df2aa75a1557">
       <img height="20" width="150" src="https://github.com/user-attachments/assets/bdd6a739-1344-4d16-b2e2-c1a4104dc5f3">
       <img height="20" width="150" src="https://github.com/user-attachments/assets/85aad55c-ca4d-49a2-b95f-aa291e6a7ae7">
@@ -193,16 +181,5 @@
       <img height="20" src="https://github.com/user-attachments/assets/43bef52a-a034-49bd-bfa9-68d61e46f1ab">
       <img height="20" src="https://github.com/user-attachments/assets/7dc84104-2a33-4e06-bb1b-0ee3d044675f">
   </details>
-    <code>Last updated: 25.12.25</code>
+    <code>Last updated: 27.12.25</code>
 </div>
-<!--<br><br>
-<p align="center">～～～</p>
-<br>
-<p align="center"><a href="https://donate.torproject.org/"><img alt="tor-free-the-internet" src="https://github.com/user-attachments/assets/994c4303-8ecb-47d6-9ed4-f7cc0480b949"></a></p>
-<br>
-<p align="center">～～～</p>
-<br><br>
-<div align="center"><img  alt="blue-divider" src="https://github.com/user-attachments/assets/f08e681c-fe22-4075-933f-507542d5f637"></div>
-<div></div>
-<img width=
--->
