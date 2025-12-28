@@ -30,7 +30,7 @@
         </div>
   </details>
   <details>
-    <summary>ship list!!</summary><sup>will be adding images soon ^^</sup><br>
+    <summary>ship list!!</summary><sup>may (or may not) be adding images soon (laughs in too lazy to find perfect images)</sup><br>
       <div>${\textsf{\color{#F9B448}Kirk/Spock}}$ the og gays!<img width="10" height="10" alt="gayFlag" src="https://github.com/user-attachments/assets/a2602981-aca5-4a8e-ae55-13702d613ae7"></div>
       <div>${\textsf{\color{#CC1F3B}Riker/Picard}}$ (my (unfortunately) very niche OTP!!)</div>
       <div>${\textsf{\color{#5993F7}McSprik}}$ (my OT3!!!)</div>
@@ -47,9 +47,11 @@
       <div>${\textsf{\color{#F033AB}JSeveeeennnn... J7!!!}}$</div>
       <div>${\textsf{\color{#4112A8}Wavewave}}$</div>
       <div>${\textsf{\color{#F48732}Rodimags}}$</div>
-      <div>${\textsf{\color{#9ED1FA}Opbee}}$</div>
-      <img width="320" height="320" alt="warning1" src="https://github.com/user-attachments/assets/be5b077c-bd98-471c-af9b-9c8d98232023"><br>
-      <img width="320" height="196" alt="warning2" src="https://github.com/user-attachments/assets/67c72ec7-1c83-4da3-825e-cf9190147042">
+      <div>${\textsf{\color{#9ED1FA}Opbee}}$</div><br>
+      <img width="382" height="168" alt="Screenshot 2025-12-27 210335" src="https://github.com/user-attachments/assets/85b43dd7-83dc-431f-aef2-092a35de8f17"><br>
+      <img width="382" height="127" alt="Screenshot 2025-12-27 210343" src="https://github.com/user-attachments/assets/97e0e4b4-52bf-4d34-b8a0-d779405b9cda">
+      <!--<img width="320" height="320" alt="warning1" src="https://github.com/user-attachments/assets/be5b077c-bd98-471c-af9b-9c8d98232023"><br>
+      <img width="320" height="196" alt="warning2" src="https://github.com/user-attachments/assets/67c72ec7-1c83-4da3-825e-cf9190147042">-->
   </details>
   <details>
     <summary>fave chars list <3</summary><sup>will be adding images soon here as well :)</sup><br>
