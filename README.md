@@ -38,7 +38,7 @@
       <div>${\textsf{\color{#4112A8}Wavewave}}$</div>
       <div>${\textsf{\color{#F48732}Rodimags}}$</div>
       <div>${\textsf{\color{#9ED1FA}Opbee}}$</div><br>
-      <img width="382" height="168" alt="ps1" src="https://github.com/user-attachments/assets/85b43dd7-83dc-431f-aef2-092a35de8f17"><br>
+      <img width="381" height="166" alt="ps1" src="https://github.com/user-attachments/assets/273d5a10-fb8e-42d1-a9ef-f1839d838907"><br>
       <img width="382" height="127" alt="ps2" src="https://github.com/user-attachments/assets/97e0e4b4-52bf-4d34-b8a0-d779405b9cda">
   </details>
   <details>
