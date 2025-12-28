@@ -9,7 +9,7 @@
  
  <div align="center">${\textsf{\color{#8c0007} noraml stuff }}$</div>-->
 <div align="center">
-  <img alt="Welcome!" src="https://github.com/user-attachments/assets/5e984c4f-957c-42f7-b9be-60e6a08c3c06">
+  <img alt="Welcome!" src="https://github.com/user-attachments/assets/5e984c4f-957c-42f7-b9be-60e6a08c3c06"><br><sup>This page incorporates LaTeX, which may not work on some browsers or devices. If you have NoScript or any script-blocking extension, unblock githubassets to see this page as intended.</sup>
   <br><br><br>
   <!--<img alt="open-24-hr"hight="20" width="150" src="https://github.com/user-attachments/assets/6d004296-59dc-448e-88be-ad367cc3d4a9">-->
   <img src="https://64.media.tumblr.com/848d8868e04d72b304d6134e9db7d3f4/tumblr_oy60yfUXMw1wqwex8o1_r1_400.gifv">
@@ -18,12 +18,16 @@
   <br><br>
   <details>
     <summary><img width="115" height="27" alt="Screenshot 2025-12-27 190008" src="https://github.com/user-attachments/assets/a29bbba5-072d-45e7-ae63-a63a6d830a8d"></summary>
-      <img width="10" height="10" alt="proHeart" src="https://github.com/user-attachments/assets/cb7890f9-0526-4ffc-aeae-38f03aeec383">Usually by pro-tree<img width="10" height="10" alt="proHeart" src="https://github.com/user-attachments/assets/cb7890f9-0526-4ffc-aeae-38f03aeec383"><br>
-      C+H and INT always welcome! Please don't cover my entire/a large amount of my pony unless you're my friend<br><br>
+      <div>
+        <img width="10" height="10" alt="proHeart" src="https://github.com/user-attachments/assets/cb7890f9-0526-4ffc-aeae-38f03aeec383">${\textsf{\color{#f956b3}Usually by pro-tree}}$<img width="10" height="10" alt="proHeart" src="https://github.com/user-attachments/assets/cb7890f9-0526-4ffc-aeae-38f03aeec383"><br>
+      ${\textsf{\color{#f956b3}C+H and INT always welcome!}}$<br>${\textsf{\color{#f956b3}Please don't cover my entire/a large amount of my pony unless you're my friend}}$
+      </div><br>
       <code>Status stuff</code><br>
-        🟢 - Online and probably willing to talk!<br>
-        🌙 - Either <em>actually AFK</em> or lurking<br>
-        ⛔ - I only use this if I'm feeling bad/irritated, so please IWC when I have it :,><br>
+        <div>
+          ${\textsf{\color{#1dd43c}🟢 - Online and probably willing to talk!}}$<br>
+          ${\textsf{\color{#f9ba29}🌙 - Either \textit{actually AFK} or lurking}}$<br>
+          ${\textsf{\color{#e11c2e}⛔ - I only use this if I'm feeling bad/irritated, so please IWC when I have it}}$<br>
+        </div>
   </details>
   <details>
     <summary>ship list!!</summary><sup>will be adding images soon ^^</sup><br>
