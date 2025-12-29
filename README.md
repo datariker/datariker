@@ -50,6 +50,7 @@
       <div>${\textsf{\color{#5EBDFC}Bradward Boimler}}$ (literally me irl!!)</div>
       <div>${\textsf{\color{#F5DC7A}Reginald Barclay}}$ (also very relatable)</div>
       <div>${\textsf{\color{#D37A47}Tuvok}}$</div>
+      <div>${\textsf{\color{#e54b3b}Kathryn Janeway}}$ (the best Captain!!)</div>
       <div>${\textsf{\color{#BD1111}Benjamin Sisko}}$ (we have jesus at the space station..)</div>
       <div>${\textsf{\color{#971DAF}Megatron}}$ (used to be my fave villian, i love all versions of him, i particularly love unicron trilogy and g1 megs :)</div>
       <div>${\textsf{\color{#5472CC}Ultra Magnus}}$</div>
