@@ -1,10 +1,13 @@
 <div align="center">
-  <img alt="Welcome!" src="https://github.com/user-attachments/assets/5e984c4f-957c-42f7-b9be-60e6a08c3c06"><br><sup>This page incorporates LaTeX, which may not work on some browsers or devices. If you have NoScript or any script-blocking extension, unblock githubassets to see this page as intended.</sup>
-  <br><br><br>
+  <img alt="Welcome!" src="https://64.media.tumblr.com/fcf2d956b7e67ca776290915d69a9f3e/c5c4c4a4ff43198c-ea/s250x400/c8af62e418f664f11a993096a29ff2389e2ff0f9.gifv"><br>
+  <br>
+  <div><strong>Star Trek fans INT!</strong></div>
+  <br><br>
   <!--<img alt="open-24-hr"hight="20" width="150" src="https://github.com/user-attachments/assets/6d004296-59dc-448e-88be-ad367cc3d4a9">-->
   <!--<img src="https://64.media.tumblr.com/4f46f0d4dcb6f11304ceee1d02ef6932/cfafdf76569730bf-a9/s100x200/16a2b12f588177e75bc0e2ef60f896e477fc3ecd.gifv">-->
-  <img height="300" alt="newYears" src="https://github.com/user-attachments/assets/f61e9dce-cc88-43ad-8f96-c88cf71d5b27">
+  <img height="600" width="200" alt="newYears" src="https://github.com/user-attachments/assets/f61e9dce-cc88-43ad-8f96-c88cf71d5b27">
   <br><br><br>
+  <sup>This page incorporates LaTeX, which may not work on some browsers or devices. If you have NoScript or any script-blocking extension, unblock githubassets to see this page as intended.</sup>
   <img alt="blue-divider" src="https://github.com/user-attachments/assets/f08e681c-fe22-4075-933f-507542d5f637">
   <br><br>
   <details>
@@ -183,5 +186,5 @@
       <img height="20" src="https://github.com/user-attachments/assets/43bef52a-a034-49bd-bfa9-68d61e46f1ab">
       <img height="20" src="https://github.com/user-attachments/assets/7dc84104-2a33-4e06-bb1b-0ee3d044675f">
   </details>
-    <code>Last updated: 31.12.25</code>
+    <code>Last updated: 1.1.26</code>
 </div>
