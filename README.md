@@ -7,7 +7,7 @@
   <!--<img src="https://64.media.tumblr.com/4f46f0d4dcb6f11304ceee1d02ef6932/cfafdf76569730bf-a9/s100x200/16a2b12f588177e75bc0e2ef60f896e477fc3ecd.gifv">-->
   <img height="600" width="200" alt="newYears" src="https://github.com/user-attachments/assets/f61e9dce-cc88-43ad-8f96-c88cf71d5b27">
   <br><br><br>
-  <sup>This page incorporates LaTeX, which may not work on some browsers or devices. If you have NoScript or any script-blocking extension, unblock githubassets to see this page as intended.</sup>
+  <sup>This page incorporates LaTeX, which may not work on some browsers or devices. If you have NoScript or any script-blocking extension, unblock githubassets to see this page as intended.</sup><br>
   <img alt="blue-divider" src="https://github.com/user-attachments/assets/f08e681c-fe22-4075-933f-507542d5f637">
   <br><br>
   <details>
