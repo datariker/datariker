@@ -1,7 +1,6 @@
 <div align="center">
   <img alt="Welcome!" src="https://64.media.tumblr.com/fcf2d956b7e67ca776290915d69a9f3e/c5c4c4a4ff43198c-ea/s250x400/c8af62e418f664f11a993096a29ff2389e2ff0f9.gifv"><br>
   <br>
-  <div><strong>Star Trek fans INT!</strong></div>
   <br><br>
   <!--<img alt="open-24-hr"hight="20" width="150" src="https://github.com/user-attachments/assets/6d004296-59dc-448e-88be-ad367cc3d4a9">-->
   <!--<img src="https://64.media.tumblr.com/4f46f0d4dcb6f11304ceee1d02ef6932/cfafdf76569730bf-a9/s100x200/16a2b12f588177e75bc0e2ef60f896e477fc3ecd.gifv">-->
