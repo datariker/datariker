@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <img alt="Welcome!" src="https://64.media.tumblr.com/fcf2d956b7e67ca776290915d69a9f3e/c5c4c4a4ff43198c-ea/s250x400/c8af62e418f664f11a993096a29ff2389e2ff0f9.gifv"><br>
   <br>
   <div><strong>Star Trek fans INT!</strong></div>
