@@ -43,6 +43,7 @@
     <div></div><img alt="greenArrowL" src="https://bettysgraphics.neocities.org/images/web%20graphics/arrow%20101.gif">⠀
     <img alt="borg" align="center" src="https://github.com/user-attachments/assets/73d0d11d-573d-4661-ad99-8d7abfc13bba">
     ⠀<img alt="greenArrowR" src="https://bettysgraphics.neocities.org/images/web%20graphics/arrow%20100.gif"><div></div>
+    <img src="https://64.media.tumblr.com/77e335b23aebd23c866573f927155ba8/52670ea059f92c0f-07/s250x400/e1a06b95c481157d8665055cdcc4955af11203fc.gifv">
   </div>
   <!--div-->
   <br>
