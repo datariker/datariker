@@ -1,10 +1,14 @@
 <div align="center">
-  <img alt="Welcome!" src="https://64.media.tumblr.com/fcf2d956b7e67ca776290915d69a9f3e/c5c4c4a4ff43198c-ea/s250x400/c8af62e418f664f11a993096a29ff2389e2ff0f9.gifv">
+  <!--<img alt="Welcome!" src="https://64.media.tumblr.com/fcf2d956b7e67ca776290915d69a9f3e/c5c4c4a4ff43198c-ea/s250x400/c8af62e418f664f11a993096a29ff2389e2ff0f9.gifv">-->
   <!--<img alt="open-24-hr"hight="20" width="150" src="https://github.com/user-attachments/assets/6d004296-59dc-448e-88be-ad367cc3d4a9">-->
   <!--<img src="https://64.media.tumblr.com/4f46f0d4dcb6f11304ceee1d02ef6932/cfafdf76569730bf-a9/s100x200/16a2b12f588177e75bc0e2ef60f896e477fc3ecd.gifv">-->
   <!--<img height="500" alt="newYears" src="https://github.com/user-attachments/assets/f61e9dce-cc88-43ad-8f96-c88cf71d5b27">-->
+  <p><img src="https://64.media.tumblr.com/84f06221bd523a07c364463c7c6993cf/db7ce6708c01e3ab-51/s75x75_c1/540b6dd0118fe384c4e4f9af79fc0c2d22e225a2.gifv"> $\Huge{\textsf{\color{#2d81f7}Riker}}$ <img src="https://64.media.tumblr.com/20539275e3407154277c7c0b20975e1c/1d94f68b6af5f37f-30/s75x75_c1/794e9d459f1d2dd3196a388dd411cfe16e4493e8.gifv"></p>
+  <img src="https://i.postimg.cc/jjXbcdpj/cfb697ae-original.gif">
+  <div>
+    <!--<img src="https://github.com/user-attachments/assets/73d0d11d-573d-4661-ad99-8d7abfc13bba">-->
+  </div>
   <br><br>
-  <sup>This page incorporates LaTeX, which may not work on some browsers or devices. If you have NoScript or any script-blocking extension, unblock githubassets to see this page as intended.</sup><br><br>
   <img alt="blue-divider" src="https://github.com/user-attachments/assets/f08e681c-fe22-4075-933f-507542d5f637">
   <br><br>
   <details>
