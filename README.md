@@ -3,8 +3,27 @@
   <!--<img alt="open-24-hr"hight="20" width="150" src="https://github.com/user-attachments/assets/6d004296-59dc-448e-88be-ad367cc3d4a9">-->
   <!--<img src="https://64.media.tumblr.com/4f46f0d4dcb6f11304ceee1d02ef6932/cfafdf76569730bf-a9/s100x200/16a2b12f588177e75bc0e2ef60f896e477fc3ecd.gifv">-->
   <!--<img height="500" alt="newYears" src="https://github.com/user-attachments/assets/f61e9dce-cc88-43ad-8f96-c88cf71d5b27">-->
-  <p><img src="https://64.media.tumblr.com/84f06221bd523a07c364463c7c6993cf/db7ce6708c01e3ab-51/s75x75_c1/540b6dd0118fe384c4e4f9af79fc0c2d22e225a2.gifv"> $\Huge{\textsf{\color{#2d81f7}Riker}}$ <img src="https://64.media.tumblr.com/20539275e3407154277c7c0b20975e1c/1d94f68b6af5f37f-30/s75x75_c1/794e9d459f1d2dd3196a388dd411cfe16e4493e8.gifv"></p>
+  <p>
+    <img width="22.2" height="23.1" src="https://github.com/user-attachments/assets/1bbd27a0-6c71-4c32-a98a-cf2bae67aac0">
+    <img src="https://64.media.tumblr.com/84f06221bd523a07c364463c7c6993cf/db7ce6708c01e3ab-51/s75x75_c1/540b6dd0118fe384c4e4f9af79fc0c2d22e225a2.gifv"> $\Huge{\textsf{\color{#2d81f7}Riker}}$ <img src="https://64.media.tumblr.com/20539275e3407154277c7c0b20975e1c/1d94f68b6af5f37f-30/s75x75_c1/794e9d459f1d2dd3196a388dd411cfe16e4493e8.gifv">
+    <img alt="commieBadge" width="22.2" height="26.1" src="https://github.com/user-attachments/assets/d391edc5-40c5-4fe9-bd75-e0e7e005bc42">
+  </p>
   <img src="https://i.postimg.cc/jjXbcdpj/cfb697ae-original.gif">
+  <div>
+    [[cool symbols]18[cool symbols/blue]]
+    [multigender // abrosexual / abroromantic // paraphile]
+    [any pronouns / normative / semi-normative / non-normative]
+    [adhd // autism // avoidant personality disorder // system / pdid]
+    [[sub]not bragging about mental illnesses; they affect how i act]
+    [atheist / agonostic // leftist / progressivist]
+  </div>
+  [blue]
+  <div>
+    [interests - ]
+        [fandoms - ]
+    [fav ships - ]
+        [fav chars - ]
+  </div>
   <div>
     <!--<img src="https://github.com/user-attachments/assets/73d0d11d-573d-4661-ad99-8d7abfc13bba">-->
   </div>
