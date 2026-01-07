@@ -1,35 +1,54 @@
-<div align="center">
+<!--Holiday-->
   <!--<img alt="Welcome!" src="https://64.media.tumblr.com/fcf2d956b7e67ca776290915d69a9f3e/c5c4c4a4ff43198c-ea/s250x400/c8af62e418f664f11a993096a29ff2389e2ff0f9.gifv">-->
   <!--<img alt="open-24-hr"hight="20" width="150" src="https://github.com/user-attachments/assets/6d004296-59dc-448e-88be-ad367cc3d4a9">-->
   <!--<img src="https://64.media.tumblr.com/4f46f0d4dcb6f11304ceee1d02ef6932/cfafdf76569730bf-a9/s100x200/16a2b12f588177e75bc0e2ef60f896e477fc3ecd.gifv">-->
   <!--<img height="500" alt="newYears" src="https://github.com/user-attachments/assets/f61e9dce-cc88-43ad-8f96-c88cf71d5b27">-->
+<!--Start-->
+<div align="center">
   <p>
     <img width="22.2" height="23.1" src="https://github.com/user-attachments/assets/1bbd27a0-6c71-4c32-a98a-cf2bae67aac0">
     <img src="https://64.media.tumblr.com/84f06221bd523a07c364463c7c6993cf/db7ce6708c01e3ab-51/s75x75_c1/540b6dd0118fe384c4e4f9af79fc0c2d22e225a2.gifv"> $\Huge{\textsf{\color{#2d81f7}Riker}}$ <img src="https://64.media.tumblr.com/20539275e3407154277c7c0b20975e1c/1d94f68b6af5f37f-30/s75x75_c1/794e9d459f1d2dd3196a388dd411cfe16e4493e8.gifv">
     <img alt="commieBadge" width="22.2" height="26.1" src="https://github.com/user-attachments/assets/d391edc5-40c5-4fe9-bd75-e0e7e005bc42">
   </p>
-  <img src="https://i.postimg.cc/jjXbcdpj/cfb697ae-original.gif">
+  <!--div-->
+  <img alt="blueTech" src="https://github.com/user-attachments/assets/9306fe2d-801d-4440-9ba0-7f72678c3f9b"><br><br>
+  <!--div-->
+  <!--Base Info Section-->
   <div>
-    [[cool symbols]18[cool symbols/blue]]
-    [multigender // abrosexual / abroromantic // paraphile]
-    [any pronouns / normative / semi-normative / non-normative]
-    [adhd // autism // avoidant personality disorder // system / pdid]
-    [[sub]not bragging about mental illnesses; they affect how i act]
-    [atheist / agonostic // leftist / progressivist]
+    <div><img src="https://github.com/user-attachments/assets/b8df8ed8-05ec-480d-86aa-43ee4ba1379e">18</div>
+    <div><img src="https://github.com/user-attachments/assets/816ea305-5aaa-4dc8-b10b-6744bed98bef">Multigender ノ Abrosexual◞ Abroromantic ノ Paraphile</div>
+    <sup>any pronouns◞ normative◞ semi-normative◞ non-normative</sup>
+    <div><img src="https://64.media.tumblr.com/b1d7f035a201b19b388494d54624f7d1/c5e516b88dce7159-e7/s75x75_c1/72a3fe4668e96e6bfabb31843b47d26197fc0963.gifv"> ADHD ノ Autism ノ Avoidant Personality Disorder ノ System◞ P-DID</div>
+    <sup>!Not bragging about mental illnesses: They affect how I act!</sup>
+    <div><img src="https://github.com/user-attachments/assets/a7b37842-38a3-4915-a8a8-e71c4770c037">Atheist ノ Agnostic ノ Leftist◞ Progressivist◞ United Federation glazer</div>
   </div>
-  [blue]
+  <!--div-->
+  <img alt="snowBubs" src="https://i.postimg.cc/jjXbcdpj/cfb697ae-original.gif">
+  <!--div-->
+  <!--div-->
+  <br><br><img src="https://i.postimg.cc/4xHqmh7W/bluestars.gif"><img src="https://pixelsafari.neocities.org/dividers/curlyblueribbon.png"><img src="https://i.postimg.cc/4xHqmh7W/bluestars.gif">
+  <!--div-->
+  <!--Interests Section-->
   <div>
-    [interests - ]
-        [fandoms - ]
-    [fav ships - ]
-        [fav chars - ]
+    <div>✦ interests — coding, writing, art, reading, math, music</div><br>
+    <div>⠀⠀⠀⠀𖦹 fandoms — star trek, transformers, star wars, spaceballs, dune, hitchiker's guide, mr. robot, blue archive, bandom, furry, gen sci-fi</div><br>
+    <div>✦ fave ships — kirk/spock, j7, riker/picard, mcspirk, megastar, obikin, garashir, daforge, P/K, wavewave, jiles</div><br>
+    <div>⠀⠀⠀⠀𖦹 fave chars — william riker, wesley crusher, dukat, james kirk, boimler, barclay, tuvok, janeway, sisko, megatron, ultra magnus, starscream, obi-wan, din djarin, TARS</div>
   </div>
+  <!--div-->
+  <img align="center" src="https://pixelsafari.neocities.org/dividers/bow/blue10.png"><br><br>
+  <!--div-->
+  <!--Borg Section-->
   <div>
-    <!--<img src="https://github.com/user-attachments/assets/73d0d11d-573d-4661-ad99-8d7abfc13bba">-->
+    <div></div><img alt="greenArrowL" src="https://bettysgraphics.neocities.org/images/web%20graphics/arrow%20101.gif">⠀
+    <img alt="borg" align="center" src="https://github.com/user-attachments/assets/73d0d11d-573d-4661-ad99-8d7abfc13bba">
+    ⠀<img alt="greenArrowR" src="https://bettysgraphics.neocities.org/images/web%20graphics/arrow%20100.gif"><div></div>
   </div>
-  <br><br>
+  <!--div-->
+  <br>
   <img alt="blue-divider" src="https://github.com/user-attachments/assets/f08e681c-fe22-4075-933f-507542d5f637">
   <br><br>
+  <!--div-->
   <details>
     <summary><img width="115" height="27" alt="ponytownB" src="https://github.com/user-attachments/assets/a29bbba5-072d-45e7-ae63-a63a6d830a8d"></summary>
       <div>
