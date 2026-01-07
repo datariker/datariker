@@ -32,7 +32,7 @@
   <div>
     <div>✦ interests — coding, writing, art, reading, math, music</div><br>
     <div>⠀⠀⠀⠀𖦹 fandoms — star trek, transformers, star wars, spaceballs, dune, hitchiker's guide, mr. robot, blue archive, bandom, furry, gen sci-fi</div><br>
-    <div>✦ fave ships — kirk/spock, j7, riker/picard, mcspirk, megastar, obikin, garashir, daforge, P/K, wavewave, jiles</div><br>
+    <div>✦ fave ships — kirk/spock, j7, riker/picard, mcspirk, megastar, obikin, garashir, daforge, P/K, wavewave, jiles, kiradax</div><br>
     <div>⠀⠀⠀⠀𖦹 fave chars — william riker, wesley crusher, dukat, james kirk, boimler, barclay, tuvok, janeway, sisko, megatron, ultra magnus, starscream, obi-wan, din djarin, TARS</div>
   </div>
   <!--div-->
