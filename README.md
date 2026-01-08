@@ -31,7 +31,7 @@
   <!--Interests Section-->
   <div>
     <div>✦ interests — coding, writing, art, reading, math, music</div><br>
-    <div>⠀⠀⠀⠀𖦹 fandoms — star trek, transformers, star wars, spaceballs, dune, hitchiker's guide, mr. robot, blue archive, bandom, furry, gen sci-fi</div><br>
+    <div>⠀⠀⠀⠀𖦹 fandoms — star trek, transformers, star wars, spaceballs, dune, hitchiker's guide, mr. robot, blue archive, bandom (metal), furry (ish), general sci-fi</div><br>
     <div>✦ fave ships — kirk/spock, j7, riker/picard, mcspirk, sisko/dukat, megastar, obikin, garashir, daforge, P/K, wavewave, jiles, kiradax</div><br>
     <div>⠀⠀⠀⠀𖦹 fave chars — william riker, wesley crusher, dukat, james kirk, borg collective, boimler, barclay, tuvok, janeway, chakotay, sisko, megatron, ultra magnus, starscream, obi-wan, din djarin, TARS</div>
   </div>
@@ -49,64 +49,8 @@
   <br>
   <img alt="blue-divider" src="https://github.com/user-attachments/assets/f08e681c-fe22-4075-933f-507542d5f637">
   <br><br>
-  <!--div-->
   <details>
-    <summary><img width="115" height="27" alt="ponytownB" src="https://github.com/user-attachments/assets/a29bbba5-072d-45e7-ae63-a63a6d830a8d"></summary>
-      <div>
-        <img width="10" height="10" alt="proHeart" src="https://github.com/user-attachments/assets/cb7890f9-0526-4ffc-aeae-38f03aeec383">${\textsf{\color{#f956b3}Usually by pro-tree}}$<img width="10" height="10" alt="proHeart" src="https://github.com/user-attachments/assets/cb7890f9-0526-4ffc-aeae-38f03aeec383"><br>
-      ${\textsf{\color{#f956b3}C+H and INT always welcome!}}$<br>${\textsf{\color{#f956b3}Please don't cover my entire/a large amount of my pony unless you're my friend}}$
-      </div><br>
-      <code>Status stuff</code><br>
-        <div>
-          ${\textsf{\color{#1dd43c}🟢 - Online and probably willing to talk!}}$<br>
-          ${\textsf{\color{#f9ba29}🌙 - Either \textit{actually AFK} or lurking}}$<br>
-          ${\textsf{\color{#e11c2e}⛔ - I only use this if I'm feeling bad/irritated, so please IWC when I have it}}$<br>
-        </div>
-  </details>
-  <details>
-    <summary><img width="92" height="28" alt="shiplistB" src="https://github.com/user-attachments/assets/db8c95be-a807-4fd1-9bea-6c88410f91b4"></summary><sup>may (or may not) be adding images soon (laughs in too lazy to find perfect images)</sup><br>
-      <div>${\textsf{\color{#F9B448}Kirk/Spock}}$ the og gays!<img width="10" height="10" alt="gayFlag" src="https://github.com/user-attachments/assets/a2602981-aca5-4a8e-ae55-13702d613ae7"></div>
-      <div>${\textsf{\color{#CC1F3B}Riker/Picard}}$ (my (unfortunately) very niche OTP!!)</div>
-      <div>${\textsf{\color{#5993F7}McSprik}}$ (my OT3!!!)</div>
-      <div>${\textsf{\color{#B2A7F9}Obikin}}$ (my oldTP)</div>
-      <div>${\textsf{\color{#D0D9FA}Megastar}}$ (my OTHER oldTP)</div>
-      <div>${\textsf{\color{#822020}Dukat/Sisko}}$ (Disko hehe) <img width="10" height="10" alt="discoBall" src="https://github.com/user-attachments/assets/1031b16b-fe7c-454a-9cbf-6a9c0e7972df"></div>
-      <div>${\textsf{\color{#208258}Garashir}}$</div>
-      <div>${\textsf{\color{#F8CD4F}DaForge}}$</div>
-      <div>${\textsf{\color{#684FF8}Boimler/Ransom}}$</div>
-      <div>${\textsf{\color{#CE9BD3}Dukat/Ziyal}}$</div>
-      <div>${\textsf{\color{#FB5D5D}Data/Riker!!}}$ (OMGG there's just something about them)</div>
-      <div>${\textsf{\color{#E4BF2F}Jiles!!}}$ (they def had something going on..)</div>
-      <div>${\textsf{\color{#FD99D0}P/K}}$ (all the way!)</div>
-      <div>${\textsf{\color{#F033AB}JSeveeeennnn... J7!!!}}$</div>
-      <div>${\textsf{\color{#4112A8}Wavewave}}$</div>
-      <div>${\textsf{\color{#F48732}Rodimags}}$</div>
-      <div>${\textsf{\color{#9ED1FA}Opbee}}$</div><br>
-      <img width="381" height="166" alt="ps1" src="https://github.com/user-attachments/assets/273d5a10-fb8e-42d1-a9ef-f1839d838907"><br>
-      <img width="382" height="127" alt="ps2" src="https://github.com/user-attachments/assets/97e0e4b4-52bf-4d34-b8a0-d779405b9cda">
-  </details>
-  <details>
-    <summary><img width="112" height="29" alt="favecharB" src="https://github.com/user-attachments/assets/8019d42a-faeb-45a1-a1cc-a31d0a650518"></summary><sup>will (maybe) be adding images here soon as well :)</sup><br>
-      <div>${\textsf{\color{#E92E49}Will Riker!!}}$ (obvs)</div>
-      <div>${\textsf{\color{#9796EA}Wesley Crusher}}$ (very relatable)</div>
-      <div>${\textsf{\color{#CCB4C5}Gul Dukat!!}}$ (fave villain >:)</div>
-      <div>${\textsf{\color{#FFB74C}Jim Kirk}}$</div>
-      <div>${\textsf{\color{#5EBDFC}Bradward Boimler}}$ (literally me irl!!)</div>
-      <div>${\textsf{\color{#F5DC7A}Reginald Barclay}}$ (also very relatable)</div>
-      <div>${\textsf{\color{#D37A47}Tuvok}}$</div>
-      <div>${\textsf{\color{#e54b3b}Kathryn Janeway}}$ (the best Captain!!)</div>
-      <div>${\textsf{\color{#BD1111}Benjamin Sisko}}$ (we have jesus at the space station..)</div>
-      <div>${\textsf{\color{#971DAF}Megatron}}$ (used to be my fave villian, i love all versions of him, i particularly love unicron trilogy and g1 megs :)</div>
-      <div>${\textsf{\color{#5472CC}Ultra Magnus}}$</div>
-      <div>${\textsf{\color{#FF4B3E}Starscream}}$ (also love all versions, but particularly unicron trilogy and g1 :p)</div>
-      <div>${\textsf{\color{#6ECCFC}The Team!!}}$ (Obi-Wan, Anakin, and Ahsoka!)</div>
-      <div>${\textsf{\color{#6DC171}Din Djarin}}$</div>
-      <div>${\textsf{\color{#9EA4B1}TARS}}$ (my favorite metal rectangle YEAHHHHH!!!!)</div>
-      <div>In the end, I like most if not all charatcers <3</div><br>
-      <img width="382" height="127" alt="ps3" src="https://github.com/user-attachments/assets/47d79084-2392-444b-b640-7ec47ffb81a1">
-  </details>
-  <details>
-    <summary><img width="127" height="28" alt="blinkiesB" src="https://github.com/user-attachments/assets/0e168785-2d3e-480a-a8a0-cf27882215a9"></summary>
+    <summary><img width="129" height="29" alt="blinkiesB" src="https://github.com/user-attachments/assets/83493169-0cd4-4dbd-bbfa-a88f0329f5d5"></summary>
       <img height="20" width="150" src="https://github.com/user-attachments/assets/ed821bd0-d606-4bfe-9b60-df2aa75a1557">
       <img height="20" width="150" src="https://github.com/user-attachments/assets/bdd6a739-1344-4d16-b2e2-c1a4104dc5f3">
       <img height="20" width="150" src="https://github.com/user-attachments/assets/85aad55c-ca4d-49a2-b95f-aa291e6a7ae7">
@@ -144,7 +88,6 @@
       <img alt="Blinkie rawr XD" height="20" width="150" src="https://github.com/user-attachments/assets/ccb1110c-e40f-44c7-8890-61cbe330d197">
       <img alt="Blinkie Snake Lover" height="20" width="150" src="https://github.com/user-attachments/assets/95e795ee-2e03-45f5-8a24-127af520b51d"><br>
       <img alt="pcaddict" height="20" width="150" src="https://github.com/user-attachments/assets/9ec8bf0f-7a8a-4fcc-b000-7775253dd4f2">
-      <!--<img alt="sudo-apt-kill-me" height="20" width="150" src="https://github.com/user-attachments/assets/3fd7a5f0-8b83-48b5-84b5-05c94aca0baa">-->
       <img alt="sudoKillMeNow" src="https://github.com/user-attachments/assets/ae4fd43d-5b69-4278-a3ea-3dfe229abd8f">
       <img alt="Distro Hopper" height="20" width="150" src="https://github.com/user-attachments/assets/8e482812-112a-4524-bf03-4510d9f14e4b">
       <img alt="Offensive Security" height="20" width="150" src="https://github.com/user-attachments/assets/86963168-8830-4a28-a641-85d5e557da15"><br>
@@ -226,5 +169,38 @@
       <img height="20" src="https://github.com/user-attachments/assets/43bef52a-a034-49bd-bfa9-68d61e46f1ab">
       <img height="20" src="https://github.com/user-attachments/assets/7dc84104-2a33-4e06-bb1b-0ee3d044675f">
   </details>
-    <code>Last updated: 5.1.26</code>
+  <details>
+    <summary><img width="94" height="29" alt="stampsB" src="https://github.com/user-attachments/assets/25a12d91-8ba2-41ff-9746-b585e761dda6"></summary>
+    <div>
+      <img width="99" height="56" alt="binarySolo" src="https://github.com/user-attachments/assets/f4794364-3bb7-47a4-85d0-b5beae4fe7c9">
+      <img alt="loading" src="https://github.com/user-attachments/assets/fc876a8f-681c-496f-9b64-699eebd392f3">
+      <img alt="XPrestInPeace" src="https://github.com/user-attachments/assets/26e2a0e8-329a-40ce-b63a-e7b146f0d423">
+      <img alt="internetAddict" src="https://github.com/user-attachments/assets/84106e35-7751-4c6c-80f1-424c949ef4fb">
+      <img alt="face" src="https://github.com/user-attachments/assets/92cdf027-9994-401f-96c4-47cbcac5a3d4"><br>
+      <img width="99" height="57" alt="digitalHardcore" src="https://github.com/user-attachments/assets/c0e99910-c66d-468f-b47d-e136ccde94b7">
+      <img width="99" height="57" alt="metal" src="https://github.com/user-attachments/assets/e9f2dd1e-fd0b-4f08-82c5-caebad86b39c">
+      <img width="99" height="57" alt="Tumblr_l_85369710195712grindCore" src="https://github.com/user-attachments/assets/ea7c91a5-e827-4290-807d-0322a278bec3">
+      <img width="99" height="57" alt="Tumblr_l_85378701152584synthPunk" src="https://github.com/user-attachments/assets/8aa2784a-5c19-4826-ba06-d1fae0ddb2b9">
+      <img alt="hardstyle" src="https://github.com/user-attachments/assets/dc53b3bb-2a86-47c2-9c28-7ecbf5c1d676"><br>
+      <img alt="luckyStar" src="https://github.com/user-attachments/assets/a1e81f78-9672-4cbd-98f6-b5cac2d78d3a">
+      <img alt="Tumblr_l_85525128905184wentOutsideGraphicsBad" src="https://github.com/user-attachments/assets/90a7f362-9f9c-41ff-950d-26d00805b33b">
+      <img alt="Tumblr_l_85537842820700supLove" src="https://github.com/user-attachments/assets/a3966e30-aa95-45d2-a758-38f6e26dd387">
+      <img alt="mushroomTumblr_l_86256030530166" src="https://github.com/user-attachments/assets/36ec485e-db55-45b5-82dc-3a0287936551">
+      <img width="97" height="55" alt="genderTumblr_l_116360272198005" src="https://github.com/user-attachments/assets/b60fd6f8-1a7f-4ddc-8e7a-8032dd265546"><br>
+      <img alt="Tumblr_l_85459044194636HAHA" src="https://github.com/user-attachments/assets/0d3d6146-e4fd-4f34-96cd-01ecc50e1429">
+      <img width="100" height="55" title="creds to boimford on Tumblr" alt="badgeyTumblr_l_116205018360460" src="https://github.com/user-attachments/assets/4891bef8-607e-4ed5-aaee-9c8d7aad8ca4">
+      <img alt="robotTumblr_l_85480207171972" src="https://github.com/user-attachments/assets/cb31fb2c-3cce-45cd-84a3-52c43e75c1c9">
+      <img alt="robot2Tumblr_l_85521190526540" src="https://github.com/user-attachments/assets/76297ac9-a5f9-490a-bc52-f429b6f1030f">
+      <img width="99" height="56" alt="404errorTumblr_l_116357614732381" src="https://github.com/user-attachments/assets/ae3559e5-deed-4ce8-a2f3-93e3c3c6cd01"><br>
+      <img width="99" height="56" alt="AO3Tumblr_l_85640799359411" src="https://github.com/user-attachments/assets/c49a8fb6-4a52-4f95-a705-59c68a519095">
+      <img width="99" height="56" alt="damnRed" src="https://github.com/user-attachments/assets/b38af8ae-a8e3-4c1b-8387-5ce64e240f9b">
+      <img width="99" height="56" alt="UFED" src="https://github.com/user-attachments/assets/e0fdb899-af4e-491d-91a0-e0fe3dd197ed">
+      <img alt="Tumblr_l_85820828570592uMad" src="https://github.com/user-attachments/assets/c09c4e85-aeb9-4f6c-8ca7-5510d713a8ff">
+      <img alt="Tumblr_l_85824839882309music" src="https://github.com/user-attachments/assets/485552a0-2e66-4426-8752-ec473b74338a">
+    </div>
+  </details>
+  <details>
+    <summary><img width="144" height="29" alt="graphicsB" src="https://github.com/user-attachments/assets/89766a1c-da43-4b09-be82-8cf7c98cb6da"></summary>
+  </details>
+    <code>Last updated: 7.1.26</code>
 </div>
