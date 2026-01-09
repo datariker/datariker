@@ -180,32 +180,46 @@
       <img width="99" height="56" alt="binarySolo" src="https://github.com/user-attachments/assets/f4794364-3bb7-47a4-85d0-b5beae4fe7c9">
       <img alt="loading" src="https://github.com/user-attachments/assets/fc876a8f-681c-496f-9b64-699eebd392f3">
       <img alt="XPrestInPeace" src="https://github.com/user-attachments/assets/26e2a0e8-329a-40ce-b63a-e7b146f0d423">
-      <img alt="internetAddict" src="https://github.com/user-attachments/assets/84106e35-7751-4c6c-80f1-424c949ef4fb">
-      <img alt="face" src="https://github.com/user-attachments/assets/92cdf027-9994-401f-96c4-47cbcac5a3d4"><br>
-      <!--Music Sect-->
+      <img alt="internetAddict" src="https://github.com/user-attachments/assets/84106e35-7751-4c6c-80f1-424c949ef4fb"><br>
+      <!--Genre Sect-->
       <img width="99" height="57" alt="digitalHardcore" src="https://github.com/user-attachments/assets/c0e99910-c66d-468f-b47d-e136ccde94b7">
       <img width="99" height="57" alt="metal" src="https://github.com/user-attachments/assets/e9f2dd1e-fd0b-4f08-82c5-caebad86b39c">
       <img width="99" height="57" alt="Tumblr_l_85369710195712grindCore" src="https://github.com/user-attachments/assets/ea7c91a5-e827-4290-807d-0322a278bec3">
-      <img width="99" height="57" alt="Tumblr_l_85378701152584synthPunk" src="https://github.com/user-attachments/assets/8aa2784a-5c19-4826-ba06-d1fae0ddb2b9">
       <img alt="hardstyle" src="https://github.com/user-attachments/assets/dc53b3bb-2a86-47c2-9c28-7ecbf5c1d676"><br>
       <!--Woke Sect-->
       <img alt="luckyStar" src="https://github.com/user-attachments/assets/a1e81f78-9672-4cbd-98f6-b5cac2d78d3a">
       <img alt="Tumblr_l_85525128905184wentOutsideGraphicsBad" src="https://github.com/user-attachments/assets/90a7f362-9f9c-41ff-950d-26d00805b33b">
       <img alt="Tumblr_l_85537842820700supLove" src="https://github.com/user-attachments/assets/a3966e30-aa95-45d2-a758-38f6e26dd387">
-      <img alt="mushroomTumblr_l_86256030530166" src="https://github.com/user-attachments/assets/36ec485e-db55-45b5-82dc-3a0287936551">
-      <img width="97" height="55" alt="genderTumblr_l_116360272198005" src="https://github.com/user-attachments/assets/b60fd6f8-1a7f-4ddc-8e7a-8032dd265546"><br>
-      <!--Robot Sect-->
-      <img alt="Tumblr_l_85459044194636HAHA" src="https://github.com/user-attachments/assets/0d3d6146-e4fd-4f34-96cd-01ecc50e1429">
-      <img width="100" height="55" title="creds to boimford on Tumblr" alt="badgeyTumblr_l_116205018360460" src="https://github.com/user-attachments/assets/4891bef8-607e-4ed5-aaee-9c8d7aad8ca4">
+      <img alt="noschoolnoprob" src="https://64.media.tumblr.com/2d756ecd780976c7678bfa8d221721c0/cb3cdd609f4b887c-b0/s100x200/110c468663bf1a6a1d26d2c0b327327c10818cbf.pnj"><br>
+      <!--Flag/Love-->
+      <img alt="love" src="https://64.media.tumblr.com/303c78d14dd5decb7d9023248cacba5f/8574ac30b86e31bd-30/s100x200/7ae9eb6f3f6b41a60f9cbdf56761ace6c9ca9542.gifv">
+      <img width="99" height="56" alt="AO3Tumblr_l_85640799359411" src="https://github.com/user-attachments/assets/c49a8fb6-4a52-4f95-a705-59c68a519095">
+      <img width="99" height="56" alt="UFED" src="https://github.com/user-attachments/assets/e0fdb899-af4e-491d-91a0-e0fe3dd197ed">
+      <img width="99" height="56" alt="voyager" src="https://github.com/user-attachments/assets/e1d60356-525a-4877-a0c6-7eda7540d9a6"><br>
+      <!--Robot-->
       <img alt="robotTumblr_l_85480207171972" src="https://github.com/user-attachments/assets/cb31fb2c-3cce-45cd-84a3-52c43e75c1c9">
       <img alt="robot2Tumblr_l_85521190526540" src="https://github.com/user-attachments/assets/76297ac9-a5f9-490a-bc52-f429b6f1030f">
-      <img width="99" height="56" alt="404errorTumblr_l_116357614732381" src="https://github.com/user-attachments/assets/ae3559e5-deed-4ce8-a2f3-93e3c3c6cd01"><br>
-      <!--Commie Sect-->
-      <img width="99" height="56" alt="AO3Tumblr_l_85640799359411" src="https://github.com/user-attachments/assets/c49a8fb6-4a52-4f95-a705-59c68a519095">
-      <img width="99" height="56" alt="damnRed" src="https://github.com/user-attachments/assets/b38af8ae-a8e3-4c1b-8387-5ce64e240f9b">
-      <img width="99" height="56" alt="UFED" src="https://github.com/user-attachments/assets/e0fdb899-af4e-491d-91a0-e0fe3dd197ed">
+      <img alt="leet" src="https://64.media.tumblr.com/8c512ae5cef7f4fc44c6bdf3db4a739b/cb3cdd609f4b887c-a5/s100x200/44dc0fdcf20f31f2708a9f63fcb8df2352dc6665.pnj">
+      <img alt="frutiger" src="https://64.media.tumblr.com/5d09dfbf7083f8f875c7e8366a8b285c/fe9b5cf4d120c8c1-e1/s100x200/fed79fb20deaa409c9f964da8f37b5b5c8f23e83.gifv"><br>
+      <!--Error-->
+      <img alt="face" src="https://github.com/user-attachments/assets/92cdf027-9994-401f-96c4-47cbcac5a3d4">
+      <img width="97" height="55" alt="genderTumblr_l_116360272198005" src="https://github.com/user-attachments/assets/b60fd6f8-1a7f-4ddc-8e7a-8032dd265546">
+      <img width="99" height="56" alt="404errorTumblr_l_116357614732381" src="https://github.com/user-attachments/assets/ae3559e5-deed-4ce8-a2f3-93e3c3c6cd01">
+      <img src="https://github.com/user-attachments/assets/4066ba46-704b-4424-9d9a-a444a6cb4ed9"><br>
+      <!--Crazy-->
+      <img alt="Tumblr_l_85459044194636HAHA" src="https://github.com/user-attachments/assets/0d3d6146-e4fd-4f34-96cd-01ecc50e1429">
       <img alt="Tumblr_l_85820828570592uMad" src="https://github.com/user-attachments/assets/c09c4e85-aeb9-4f6c-8ca7-5510d713a8ff">
-      <img alt="Tumblr_l_85824839882309music" src="https://github.com/user-attachments/assets/485552a0-2e66-4426-8752-ec473b74338a"><br>
+      <img alt="Xd" src="https://64.media.tumblr.com/c447bf646cda157a5bd8e72b956b6b43/13b74a8fcfc30b79-b4/s250x400/9fb2ce467459803851ab17db6d2549ab708d9755.pnj">
+      <img alt="problem" src="https://64.media.tumblr.com/6082a0248b43293b8ae39d93bc1d6436/13b74a8fcfc30b79-24/s100x200/4edee05d754395de9678da2ebd33ca47db612475.pnj"><br>
+      <!--x
+      <img alt="mushroomTumblr_l_86256030530166" src="https://github.com/user-attachments/assets/36ec485e-db55-45b5-82dc-3a0287936551">
+      <br>-->
+      <!--Robot Sect
+      <img width="100" height="55" title="creds to boimford on Tumblr" alt="badgeyTumblr_l_116205018360460" src="https://github.com/user-attachments/assets/4891bef8-607e-4ed5-aaee-9c8d7aad8ca4">
+      <br>-->
+      <!--Commie Sect
+      <img width="99" height="56" alt="damnRed" src="https://github.com/user-attachments/assets/b38af8ae-a8e3-4c1b-8387-5ce64e240f9b">
+      <img alt="Tumblr_l_85824839882309music" src="https://github.com/user-attachments/assets/485552a0-2e66-4426-8752-ec473b74338a"><br>-->
       <!--Pirate Sect-->
       <img alt="anonWebNowTumblr_l_85161083038448" src="https://github.com/user-attachments/assets/a11962c3-1681-4d5e-a687-369ebd57115c">
       <img width="88" height="31" alt="internetArchiveTumblr_l_85145464863610" src="https://github.com/user-attachments/assets/6b00d083-4c00-42ec-b7e7-fe99cf6f81d3">
